@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.05416</mods:identifier>
+   <mods:name>
+      <mods:namePart>Adams, John Quincy, 1767-1848</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1782 August 10</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>4</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1782 August 10</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17820810</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Does not doubt that John Jay has had great anxieties. All Adams had were
+            unnecessary but are now past. Would like to have a free conversation with Jay on the
+            subjects mentioned. But things move slowly here. John Adams does not think he should go
+            to Paris until the English representative has full power to treat with America as an
+            independent nation. If all American ministers were there, peace would seem likely and
+            another loan for England would be concluded. Has no confidence in Shelburne's sincerity.
+            "They are only amusing us." Wants to know all steps taken however. Spain short sighted
+            in not making a treaty with us. France should have great weight with America and
+            Holland. America will have to tie herself more closely to France if the neutral powers
+            are more friendly with England. If America admitted to armed neutrality, she would be
+            freer of France. We are tied to France by her aid.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.5416</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.05416_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,1 @@
+Working copies of MODS descriptions of John Jay Papers content. See app at http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.09583</mods:identifier>
+   <mods:name>
+      <mods:namePart>Peters, Richard, 1743-1828</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1821 March 20</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>3</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1821 March 20</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">18210320</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Refers to the "round assertions" of eastern orators that no proofs existed
+            of French maneuvering, grounding on this base their eulogy of John Jay's coadjutor
+            exclusively. Those who lived and acted in the scenes of that day know better, and could
+            easily prove their point were solid advantages to be gained for America. Remembers Jay's
+            letter from St. Ildefonso; a vote of censure was attempted in the Congress of 1783 to
+            gratify the French. Modern votaries of expediency have imitated their predecessors; such
+            actions do not gain advantages to a country. Some public men have proved "obliquities of
+            human nature" on the admission of Missouri to the Union, and the subject has ended
+            proving the imbecility of opposition to deep-rooted prejudices and widely spread
+            interests. It is good to enjoy, as does Jay, both personal approbation and fame within
+            difference to censure and contempt for extravagant praise. While laboring in adversity
+            during the Revolution we were content with independence and safety as our goals, not
+            foreseeing the prosperity and wealth which success would achieve. We now seem to be
+            languishing with no prospect of reinvigoration. Sends a report of the Agricultural
+            Society on flax, which could rival cotton with the proper machinery. The Society should
+            make every effort to set American genius at work to produce at home what cannot be
+            obtained from abroad. Though agriculture is languishing, he continues to nurse it in the
+            hope that it will revive. Is sorry about Jay's state of health; his own has been
+            preserved. It seems that among New Yorkers there is more agreement on agriculture and
+            public improvement than in politics.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.9583</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.09583_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

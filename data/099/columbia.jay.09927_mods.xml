@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.09927</mods:identifier>
+   <mods:name>
+      <mods:namePart>Livingston, Robert R.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1782 August 08</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>3</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1782 August 08</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17820808</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Coded letter. Sent four copies by separate ships. Major Franks received
+            JayÆs letter enumerating slights by Spanish, which, when communicated to Congress,
+            "excited their warmest resentment". Eventually came to a (somewhat tempered) resolution,
+            enclosed. Do not want to jeopardize commerce; particularly important to Spain because
+            lacking own manufacture. Unsure of FloridablancaÆs views on commercial relations with
+            Spanish colonies. Strongly wishes to avoid mutual guarantee of each otherÆs territory;
+            might be harmful to future interest and conscience, and after the war of little use to
+            the United States in any case. Must prevent guarantee from extending to Spanish conquest
+            on the Mississippi. Reports that Savannah evacuated but no official account. Continental
+            army still on the Hudson river, approximately 12,000 men. French army of approximately
+            5,000 marching to same post. Marquis de Vaudreuil and 13 ships of 1400 men at bases will
+            remain to protect trading ships and then to Boston to refit ships. Southern armies same.
+            About to attend debate in Congress on what instructions to give ministers in Europe for
+            making peace. Will pay Jay and other ministers through Franklin; another quarter salary
+            by this post.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.9927</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.09927_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

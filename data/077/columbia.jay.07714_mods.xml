@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.07714</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Carmichael, William, -1795</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1783 September 20</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>3</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1783 September 20</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17830920</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>He has decided to resign his appointment to the Court of Spain and has
+            been named in a commission for a treaty of commerce with Great Britain. There is
+            therefore no probability that he will be returning to Madrid. Instructs Carmichael to
+            relinquish his house in Madrid and to sell his coach and harness. According to the terms
+            of an agreement with the furniture dealer, Jay should be able to get back three fourths
+            of their original price since Jay is returning the furniture within the stipulated
+            period of three years. The other furniture should be sold for whatever price offered.
+            Other instructions for the sale or disposition of items belonging to Jay in Madrid are
+            included, as well as a list of the papers related to this matter. They may not be seeing
+            each other again but Jay will "always be ready to promote any measure which may be
+            conducive to the success of your endeavors to serve our Country."</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.7714</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.07714_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

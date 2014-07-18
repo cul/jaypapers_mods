@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.04813</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Pickering, Timothy, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1810 February 09</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>3</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1810 February 09</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">18100209</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>He and Franklin met with Vergennes on 10 August 1782. The Count with
+            Franklin's concurrence thought that Oswald's commission should be dealt with, while John
+            Jay held that to treat under the description of colonies would be to descend from
+            independence. Later observed to Franklin that it was against French and Spanish
+            interests to acknowledge our independence, while the doctor imputed the Court's conduct
+            to moderation and cited the American ministers' instructions as further reasons for
+            acquiescence. Oswald later agreed to dispatch a courier to London for permission to
+            acknowledge American independence, the answer being that such acknowledgment should be
+            an article in the treaty. Learning that a report sent to Britain by Fitzherbert of
+            Vergennes' acceptance of the commission caused this reply, Jay persuaded Oswald to ask
+            for another giving America equal powers, drafting a letter to this effect which Franklin
+            would not approve. On 9 September learned that Rayneval had gone to England and
+            concluded it was for these reasons: (1) to tell Shelburne that the article recognizing
+            American independence was deemed sufficient by Vergennes; (2) to obtain Britain's
+            agreement to division of the fishery with France exclusively; (3) to impress Shelburne
+            with Spain's wish for exclusive navigation of the Gulf of Mexico and exclusion of the
+            U.S. from the Mississippi while leaving everything north of the Ohio to Britain; (4) to
+            sound out probability of peace on France's terms. Jay persuaded Vaughan to communicate
+            America's sentiments and resolves to Shelburne; the latter returned from England on 27
+            Sept. with Oswald's new commission. The principal articles were prepared and sent to
+            Britain; Franklin cooperated in obtaining the best possible terms for America.
+            Preliminaries were signed on 30 November. Expected Vergennes' attitude that Jay had
+            "sinned beyond forgiveness." Has esteem and regard for Franklin's behavior; heard of the
+            debates in Congress to censure them but did not know the doctor had prepared the way for
+            them. Wishes Franklin's letter to Moylan might be obtained, or its evidence
+            substantiated.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4813</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.04813_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

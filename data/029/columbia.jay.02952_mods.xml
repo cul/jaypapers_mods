@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.02952</mods:identifier>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1766 November n.d.</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>0</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1766 November n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1766-11</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Miscellaneous law papers from the Inferior Court of Common Pleas, Albany;
+            the New Jersey Supreme Court; Richmond County Court of Common Pleas; Westchester Court
+            of Common Pleas. New York Supreme Court and Mayor's Court for which, among others,
+            Kissam, Chambers, and Murray served as attorney. Papers from the following cases are
+            included: Jeremiah Van Rensselaer and Peter Winne vs. Jacobus Van Alen; Peter Van Etten
+            et al. vs. Jacob Rutsen et al.; Margery Merritt et al. vs. John Corbett; the King vs.
+            Henry Beekman et al., Justices of the Peace of Dutchess County; Patrick Campbell vs.
+            James Wallace; James Darcey vs. Daniel Stratford; John Brestead vs. Johannes Degroot;
+            Agreement between Gilbert Livingston and Robert G. Livingston; Nathaniel Garrisson vs.
+            John Hunlock; Richard Stilwell vs. Lawrence Smith; Becker and Benson vs. James Haviere;
+            Cassell vs. Waddel; William Nicoll Jr. vs. Timothy Milles; Clapp vs. Van Horne; William
+            Vesey vs. Walford Aker; James Darcey vs. estate of James Wilson; Johnson vs. Samuel
+            Samuelse Demarest; Nathaniel Gilbert vs. the Mayor et al of New York City; James Jackson
+            vs. Dirck Vasburgh. Other papers included are: Petition to Governor George Clinton from
+            John Chambers, et al., a writ to sheriffs for the election of representatives; paper
+            concerning Alexander Detorry, slave belonging to Thomas Clarke; paper concerning
+            admission of Helena Peers to court.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.2952</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.02952_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

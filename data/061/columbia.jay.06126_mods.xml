@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.06126</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, Peter A. (Peter Augustus), 1776-1843</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1808 January 21</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>4</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1808 January 21</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">18080121</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Sorry to hear about John Jay's bilious attack. BillÆs cough gives Peter
+            Jay worry every winter. Mary is in perfect health. Colonel Rogers heard about a Poke
+            berry remedy for rheumatism that has worked wonders in Virginia and Maryland. Is sending
+            food and other provisions by Mr. Clarke to John Jay. Received dividends on John JayÆs
+            Manhattan shares. Thanks for power of attorney. Plans on spending the hot months with
+            John Jay; by autumn Peter plans to resume business if his health permits. Public doubt
+            might make this impossible but will know more soon. The bill in chancery has been
+            submitted to Mr. Riggs. Has asked Elias Miller to come so he may pay him the taxes for
+            next year. Had a letter from William; believes he will be at the top of his profession.
+            Lydia Watkins and Mathilda Ridley stay at Judge LivingstonÆs. Mrs. Munro has a swelled
+            face but is recovering. Received a visit from Dinah, a Negro woman who was with them at
+            Albany. John Jay had sold her to another woman for a temporary period, and since then
+            she has been sold to Mr. Camp and her child to Mrs. Breeze in Utica. Mr. Camp refuses to
+            pay her, and her child is still a slave. Peter promised to find out the story from John
+            Jay so he can write her former employer.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.6126</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.06126_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

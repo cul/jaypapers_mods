@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.04312</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Randolph, Edmund, 1753-1813</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1794 September 13</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>12</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1794 September 13</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17940913</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Discusses progress of negotiations with Grenville. 1) what constituted
+            first breach of Treaty. Discussions on "carrying away of Negroes contrary to the 7th
+            article of the treaty..." British view of legality of these evacuations. Discussions of
+            evacuation of posts--British feel that no charge of breach of faith may be leveled
+            against them for non-evacuation as, in their eyes, orders for such evacuation could not
+            reach Quebec with legal force before July, 1794 by which time Americans had broken
+            Treaty. John Jay admits that Grenville's arguments on these matters have impressed him
+            and done much to alter his views. Became obvious that matter of first violator of Treaty
+            was a fruitless point to argue. Then, Grenville and Jay proceeded to seek a set of
+            reciprocal concessions which might settle outstanding disputes. Jay settled on certain
+            points for discussion which he outlined in note to Grenville of 6 August (here forwarded
+            to Randolph). From 6-30 August, nothing of importance discussed. On that date, Grenville
+            sent John Jay letter and two drafts of Treaties. (Grenville to John Jay 30 August 1794),
+            here forwarded to Randolph. Jay answered this in letter to Grenville of 1 September
+            (here forwarded). Jay felt that proposed alterations of U.S. boundary in 30 August draft
+            treaty demanded immediate comment which he offered Grenville in letter of 4 September.
+            Grenville replied to this by his note to Jay of 5 September, with enclosed observations.
+            (Here forwards letters of 4 and 5 September.) Jay prepared notes for meeting with
+            Grenville of 6 September (here forwarded). On 6 September, Jay and Grenville conferred;
+            Jay feels that Grenville and Cabinet really want a settlement. On September 8, Grenville
+            writes Jay (here forwarded) with "observations." This is last communication dealing with
+            Treaty negotiations. Jay now turns to subject of appeals and claims in cases of capture
+            and transmits letter of Sir William Scott to Jay, 10 September with enclosure. Jay
+            thinks that these last should be printed in a pamphlet.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4312</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.04312_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

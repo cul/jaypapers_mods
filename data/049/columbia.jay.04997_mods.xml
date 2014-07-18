@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.04997</mods:identifier>
+   <mods:name>
+      <mods:namePart>Grenville, Lord</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1794 August 30</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>2</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1794 August 30</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17940830</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Same as covering letter for enclosures, DNA: 4314. Encloses two
+            "projects", one for a general treaty, one for a commercial treaty. Asks John Jay to
+            discuss them with them once he has studied them carefully. Does not consider these
+            "projects" final by any means, but knew Jay would want to have them as soon as possible
+            and so did not enlarge upon certain points and may have omitted some points he should
+            have made. Has used suggestions of Jay's project of 6 August. Enclosures: 1) General
+            treaty Evacuation of forts by 1 June 1796. Freedom of passage on waterways adjacent to
+            Great Lakes. Detailed description of Commission to determine U.S. boundaries.
+            Suggestions for correction of U.S. northern boundary west of Lakes. Selection and powers
+            of Commissioners to determine compensation due British creditors and American who have
+            suffered illegal condemnation of ships and to British subjects who have suffered losses
+            by privateers operating within U.S. waters or from U.S. ports. Neutral commerce with
+            European enemies of one or the other nations--Britain and U.S. to regard each other's
+            shipping as having rights of most favored neutral nations. If one nation should remain
+            neutral when other at war, not to allow operation of privateers from her ports. Citizens
+            of neither nation to be allowed to act as privateers, under letters of marque from the
+            enemy of other nation, against the other's shipping. Neither nation to harbor privateers
+            preying upon other's vessels. If two nations at war, 9 months allowed to citizens to
+            return to homelands and no confiscation of funds during hostilities. Property rights of
+            American and British nationals in each other's lands to be respected. 2) Commercial
+            treaty Reciprocal freedom of ports. Appointment of consuls. "Most favored nation"
+            treatment of each other's commercial shipping. No further restrictions on import or
+            export of goods to be laid. West Indian shipping: limits on size of American ships in
+            trade; no duties other than those paid by British vessels. Provisions on West Indian
+            shipping to remain in force until two years after conclusion of present war with France.
+            Other articles to remain in force for twelve years after execution of treaty. Four
+            months' notice necessary for suspension of any provision.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4997</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.04997_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.10753</mods:identifier>
+   <mods:name>
+      <mods:namePart>Federalist draft, LXIV</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1788 March 05</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>9</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1788 March 05</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17880305</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Draft in John Jay's hand of Federalist Number 64, originally published on
+            March 5, 1788 in the Independent Journal. It bore the number 63 in the newspaper
+            version, but was renumbered 64 in the first collected edition, published 22 March 1788.
+            Comparison with the published version shows little change in the substance of the
+            argument for the constitutional provisions for senatorial approval of treaties. Changes
+            in organization and wording are substantial. Jay's draft speaks of "the Convention"
+            making certain provisions while the published essay substitutes "the Constitution."
+            Jay's justification of the election of Senators by state legislatures is omitted in the
+            final, published paper. In answering objections to making treaties the supreme law of
+            the land, Jay, in his draft, cites examples of British constitutional law; in his
+            published version, the citations refer to colonial and state practice. Jay's concluding
+            paragraph asking for a fair trial for a constitutional plan with theoretical merits is
+            omitted in the published essay. Also filed with this draft is a letter from John Jay II
+            to George H. Moore of the New-York Historical Society, 11 December, 1863, relating his
+            discovery of the draft of Federalist Number 64 in a bundle of old
+            newspapers.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.10753</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.10753_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

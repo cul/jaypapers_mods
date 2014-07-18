@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.09612</mods:identifier>
+   <mods:name>
+      <mods:namePart>Murray, John, 1758-1819</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1817 August 28</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>4</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1817 August 28</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">18170828</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Encloses an extract from his brother's letter expressing his pleasure at
+            the formation of a National Bible Society and John Jay's enrollment as one of the
+            vice-presidents. He himself laments that a man of Jay's stature is still under the
+            influence of practices obtained "in the Antediluvian age" in his opinion on war. The law
+            of retaliation was given by Moses, but with Christ came a new concept which prohibits
+            the old violence. Does not agree that the Moral Law is "exactly the same now" as before
+            the Flood. If so, we must question precepts of the Gospel which prohibit things allowed
+            by the Patriarchs. Jay admits as unlawful those wars arising from culpable desires and
+            designs; does not believe other causes have existed since the days of the Apostles.
+            There is no specific description of war by the Savior, but his example, his doctrines,
+            and his precepts put an end to all war. We are taught to do good for evil and to pray
+            for those who wrong us. Jay says that peace among nations is highly desirable, and the
+            way to produce it is to extend the influence of the Gospel. This is a frank
+            acknowledgment of its efficacy. Every man who is completely under the influence of the
+            Gospel is unable to shed blood; however, education, tradition, and the passions of our
+            fallen nature draw a veil over the understanding and induce the belief that war in
+            self-defense is warranted by Christianity. His friendship for Jay induces him to thus
+            unfold his views; hopes he may be favored, "in the evening of thy day," with clearness
+            of vision and the gifts and graces of the spirit.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.9612</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.09612_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

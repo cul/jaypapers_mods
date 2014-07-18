@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.12280</mods:identifier>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1769 December 11</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>9</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1769 December 11</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17691211</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>On 8 December, the meeting was adjourned to Dec 9, leisure there was no
+            quorum. On 9 December, the meeting was adjourned to 11 December, for lack of a quorum
+            present. On 11 December, there still being no prospect of quorum, the four commissioners
+            thought it unnecessary to remain any longer in Hartford. Because the business was still
+            unfinished, and leisure both colonies were still interested in the speedy determination
+            of the controversy, the commission decided to receive appeals and transmit the
+            proceedings to His Majesty in Council. The agents of both provinces then gave the
+            commissioners their appeals. New York's, dated 7 October 1769, called the decision of
+            the Commissioners highly prejudicial to the interests of the Crown and to a number of
+            people holding patents under the New York government. New Jersey's appeal, dated 4
+            December 1769, objected to that part of the commissioners' determination which fixes the
+            boundary of New Jersey at a point on the Delaware or Fish Kill in the latitude of 41
+            degrees 27' 37." The Commissioners adjourned to the Chamber of Commerce in New York City
+            to meet on 4 July 1770. They ordered the clerk to serve notices in writing of the
+            adjournment to two of the agents of both colonies. In John Jay's hand. Signed by Andrew
+            Elliot, Andrew Oliver, Charles Morris, and Jared Ingersoll.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12280</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.12280_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

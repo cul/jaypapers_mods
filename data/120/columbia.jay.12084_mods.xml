@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.12084</mods:identifier>
+   <mods:name>
+      <mods:namePart>Lincoln, Benjamin, 1733-1810</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1779 September 01</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>0</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1779 September 01</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17790901</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Until recently, the British were in summer quarters on Port Royal Island.
+            There are creditable reports that many of them have gone to Georgia, leaving one
+            battalion, three light companies and 100 Hessians behind: a total of 500 men. Lincoln
+            hopes that "our little army", composed of 900 men, might be able to beat them, protect
+            the area, and check the Indians. Colonel Parker and Major Jameson are already at
+            Augusta. General Scott is on the march with about 800 men. General Caswell informs
+            Governor Rutledge that not more than 300 Continentals may be expected from North
+            Carolina, where there are now 2000 men in the militia. It will be some time before they
+            arrive, perhaps too late to attack the enemy before its reinforcements arrive. Aid from
+            Virginia and North Carolina fell so far short of what was expected that Lincoln asked
+            them to provide him with not less than 4000 men for the fall campaign. Affairs in the
+            West Indies and in Europe may make it necessary for the British to drawn away part of
+            their troops, leaving an insufficient number. From a vessel just arrived from Havana,
+            Lincoln learned that Spain declared war against Britain. The report of a Spanish ship's
+            crew taken by the British off North Carolina, confirms this. The British are
+            concentrating around Ebenezer, Georgia. Colonel Twiggs and Major Jameson won a small
+            skirmish against them. Autograph letter signed</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12084</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.12084_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.04014</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Floridablanca, José Moñino y Redondo, conde de, 1728-1808</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1780 September 14</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>0</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1780 September 14</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17800914</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Same as DNA: 4135, Papers of the Continental Congress, Item 110, vol. 1,
+            but the letter is written in French and is entitled "translation of a letter from M. Jay
+            to M. le Comte de FlorideBlanche of 14 September 1780." A second letter is also included
+            and is entitled "translation of the letter sent by M. Gardoqui as a reply to the
+            preceding letter." The following reply has been dictated in the name of "his excellency"
+            by Don Bernardo del Campo. Spain does not intend to cut off assistance to the U.S., but
+            it will be impossible to furnish them money in Europe because that which would have come
+            from America this year will not come, and "the one who have procured a negotiation
+            already advanced will probably be lacking and that largely thanks to the intrigues of
+            several persons of a distinguished rank in France." Since the States did not assure
+            themselves from the beginning of Spanish consent, the King could not have taken measures
+            in advance to assure the acceptance and the payment of the letters that they drew. For
+            these reasons and also because Congress has given no security of his recognition, the
+            King would have had just subjects of discontent. However, if the U.S. desires to borrow
+            up to the sum of 100 or 150 thousand dollars, the King will be responsible for the
+            payment of this sum in the period of three years. He also will make all efforts possible
+            to furnish clothes and other objects to the colonies. It is necessary that they propose
+            means of reciprocal compensation in order to establish a solid friendship and
+            confidence.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4014</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.04014_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

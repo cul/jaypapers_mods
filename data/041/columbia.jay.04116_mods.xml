@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.04116</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Huntington, Samuel, 1731-1796</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1780 November 06</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>0</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1780 November 06</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17801106</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Hussey and Cumberland are in Spain. June conferred with Floridablanca on
+            June 2 and was told of the Cumberland mission. Spain could not compromise her good faith
+            with the United States. Floridablanca accepted some new bills from Jay. Floridablanca
+            told Carmichael that the only difficulty on the treaty was the navigation of the
+            Mississippi. Cumberland arrived June 19 but his business is not openly known. Jay's next
+            conference with Floridablanca was on July 5: the loss of Charleston and death of
+            Miralles discussed. The bills also discussed. Everything postponed at this conference.
+            Jay then wrote several notes on the bills, but no answer from Floridablanca who avoided
+            Jay on the excuse of illness. Jay then had a conference with Montmorin who said he would
+            speak to Floridablanca in Jay's behalf. Jay's next meeting with Montmorin was less
+            cordial and he told Jay nothing of the letter he had received from America. Montmorin
+            was not able to discuss the American business with Floridablanca and suggested to Jay
+            that he write another letter requesting an audience. Jay said he had come to submit
+            propositions, not supplications, and if no more headway was made on the treaty soon he
+            would return to America. Montmorin asked Jay if America was satisfied with the conduct
+            of France and Jay said as far as he knew but was not sure France had interceded with
+            Spain in America's favor. Montmorin indicated he could not interfere unless to mediate a
+            specific point. Jay finally consented to ask for a conference. Montmorin would not admit
+            whether Gardoqui was in town. Jay met with Gardoqui and stated the American position on
+            the Mississippi, loans, and timber. Jay stressed the western desire for the Mississippi
+            at the next meeting and Gardoqui said only future generations would need it and they
+            could settle the question for themselves. Gardoqui stressed that America should have
+            asked France for aid, not Spain who could ill afford to give it. Jay replied that
+            America should have been told this in the beginning. Gardoqui authorized Jay to accept
+            the bills coming due however. Jay suspected that France had brought Spain into the war
+            by supporting her claim to exclusive control of the Mississippi. Spain said accept no
+            more bills. Jay asked Congress to suspend drawing on him further. Conference with
+            Floridablanca, Sept. 23: Floridablanca said he was sorry Spain could accept no more
+            bills, and Jay said he should have told him that in the beginning since America wanted a
+            loan, not a donation. Jay said the French treaties should be made the basis of one with
+            Spain. Floridablanca said Spain and France had different interests. Jay said he hoped
+            they could form a treaty on the basis of the points agreed upon and negotiate the
+            others. Spain wants to be the balance in the whole struggle. She could have paid our
+            loan if she had wanted to. No nation, especially absolute monarchies, has a
+            disinterested regard for us. We should be independent of all nations. No answer from
+            Vergennes to my letter. Vergennes told Montmorin he doubted whether France could
+            help.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4116</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.04116_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

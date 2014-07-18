@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.07017</mods:identifier>
+   <mods:name>
+      <mods:namePart>Morris, Robert, 1734-1806</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1783 November 04</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>6</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1783 November 04</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17831104</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Met Mr. Penn, opposed the loss of so much of his patrimony publicly and
+            privately. Family seems open and honest; will help them in any way he can. Not necessary
+            to write to Mr. Carmichael about accounts who probably already dealt with Mr. BarclayÆs
+            request, properly, as he alone authorized to settle European accounts. Has met Mr.
+            Vaughan on JayÆs recommendation. Also met Dr. Bancroft, "who merited rewards from this
+            country which he will never get." Will resign because feels unable to do good, subject
+            to malice of envious men and own affairs neglected. Congress afraid to dismiss army
+            without paying men but had no money except in paper. Faction in Congress attempting his
+            ruin; minority in numbers but assiduous. Good sense of America will prevail if
+            government given to men believing in value of national credit. Will resign as soon as
+            engagements fulfilled. France refused to lend last sum of money; will not bother them
+            again. French minister should know MorrisÆ administration saved them either a lot of
+            money or the disgrace of abandoning American cause. Lucky that loan in Holland came
+            through after refusal of French of 3 million livres. Not resentful, wants rather to
+            promote commercial interests between two countries. Must show obligation felt to Dutch.
+            Heard definitive treaty signed; unless new articles added about British West Indies, "it
+            will be both a work of difficulty and time to carry measure that will justify your
+            opinion of us." Sons getting excellent education [in Europe], hopes to have the
+            comparable education in United States some day. Saw Governor Livingston at Princeton;
+            family well except Kitty. WonÆt discuss acts of Congress for fixing two places of
+            permanent residence; too upsetting. JayÆs reasons for protesting bills not good. Is
+            paying bills with damages. GouverneurÆs [Morris] friendship worth possessing; will be
+            useful.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.7017</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.07017_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

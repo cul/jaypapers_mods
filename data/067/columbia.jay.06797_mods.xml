@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.06797</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Littlepage, Lewis, 1762-1802</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1781 October 26</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>16</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 October 26</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17811026</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Littlepage's friends had told Jay that the chief difficulty in sending him
+            was a lack of funds. Jay has been generous in taking a stranger into his household.
+            Littlepage told Jay that entering into the service of the Duke de Crillon would be an
+            inexpensive venture. Reasserts his arguments against Littlepage's joining the
+            expedition. As the project was adopted without Jay's approval and carried out against
+            his advice, justly he could have refused to furnish money for its execution. When he
+            finally decided to give Littlepage money, unlimited credit would have been improper. If
+            the sum which the expedition would cost was beyond Littlepage's means, he should never
+            have attempted it. Until Jay should be informed of the sum which Littlepage's friends
+            desired to restrict him to, Jay gave him the pay of a British Captain of Foot and paid
+            considerable other expenses. Littlepage requested more money without giving any details.
+            "I have known many gentlemen with ten times your allowance, in daily distress for want
+            of money, and yet it would not have been proper to indulge them with more. "If
+            Littlepage meant to keep up with his companions, his allowance would indeed prove
+            inadequate. There was no need for Littlepage to take a coach to Cadiz. Jay will not
+            comment on the "improprieties" in Littlepage's letter. They were "the incautious
+            violences of a generous mind revolting against narrow tho' necessary
+            restraints."</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.6797</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.06797_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

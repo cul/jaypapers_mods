@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.04088</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Huntington, Samuel, 1731-1796</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1780 May 26</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>0</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1780 May 26</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17800526</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Refers to Franklin to John Jay, 7 April (extract) Jay to Arthur Lee, 26
+            January Arthur Lee to Jay, 17 March Jay to Vergennes, 27 January Vergennes to Jay, 13
+            March Jay to Vergennes, 9 May Jay to Galvez, 27 January Jay to Carmichael, 27 January
+            Floridablanca to Jay, 24 February Jay to Floridablanca, 6 March Floridablanca,
+            questions, 9 March Jay to Floridablanca, 25 April Jay to Floridablanca, 12 May
+            Floridablanca to Jay, 14 May Jay to Montmorin, 11 April Montmorin to Jay [11] April Jay
+            to J. Adams 26 April (Index card refers to a number of letters sent to Congress with his
+            letter). A conference with Floridablanca on 11 May. Floridablanca spoke of Spanish
+            losses in commerce and marine in the war and the great need of war ships and timber. At
+            end of year he would be able to advance between 25 and 40,000 pounds and in meantime
+            would pay those bills which became due. Floridablanca also emphasized that Spain would
+            make no concession on control of the Mississippi River and its navigation. Jay thinks
+            Floridablanca will finally give in on this point. Sir John Dalrymple spoke to
+            Floridablanca about the war and sent him an historical anecdote; a treaty between
+            England, France, Spain, and Portugal, to guarantee each other's possessions in America;
+            no European war should involve the new world, a certain amount of trade between England
+            and adjustment of the American demands in an agreeable manner. The foremost statesmen of
+            all these countries will see that this plan is to the advantage of all. The House of
+            Gardoqui are rich, in favor of ministry and friendly to America. America must be
+            punctual in her payments. Jay's funds and credit are gone and living is very expensive
+            in Spain. Ministers of other powers here are cold. We would do well with an agent in
+            Russia. Reports of dissension in Congress prevalent here and hardly any other
+            information about America is known. They seem to think we are hardly
+            civilized.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4088</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.04088_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

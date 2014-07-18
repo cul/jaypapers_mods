@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.04402</mods:identifier>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1782 November 30</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>9</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1782 November 30</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17821130</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Provisional articles of peace, agreed upon between Richard Oswald of Great
+            Britain and John Adams, Benjamin Franklin, John Jay and Henry Laurens of the United
+            States. Treaty not finished until Great Britain makes peace with France. Article 1.
+            Great Britain acknowledges sovereignty and independence of named states and relinquishes
+            all claim to governmental and territorial rights. Article 2. Exact boundaries described.
+            Article 3. Fishing rights secured for United States in Newfoundland, Gulf of St.
+            Lawrence and Atlantic Ocean and in unsettled areas of Nova Scotia. Article 4. Creditors
+            of both sides to receive payments of lawful debts. Article 5. Congress to recommend to
+            state legislatures the restitution of confiscated property of British subjects and those
+            in British-controlled territory who had not fought against the United States, All others
+            allowed to go to any state for one year in order to obtain restitution of property.
+            Congress to recommend to the states the restitution of such property and the
+            reimbursement of those who had since bought the confiscated property. Article 6. No
+            future confiscations or prosecutions against people because of their role in the present
+            war. Those confined on those charges to be set free immediately upon ratification.
+            Article 7. Hostilities between both sides to cease immediately; prisoners set free and
+            British troops and ships to withdraw without "any destruction or carrying away [of] any
+            Negroes or other property of the American inhabitants." All documents, records, deeds
+            and papers of American citizens to be returned to their proper owner. Article 8.
+            Navigation of the Mississippi River to remain open to United States and Great Britain.
+            Article 9. Any territory conquered by either side before the peace treaty reaches
+            America will be restored without need of compensation. Separate article. Redrawing of
+            one boundary if Great Britain should regain control of West Florida.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4402</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.04402_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

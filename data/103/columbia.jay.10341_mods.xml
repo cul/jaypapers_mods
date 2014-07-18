@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.10341</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Livingston, Robert R.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1783 July 18</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>8</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1783 July 18</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17830718</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Provisional articles of treaty approved and ratified by Congress. Thinks
+            can alleviate LivingstonÆs doubts about separate article (on Florida). British attempt
+            to annex territory on eastern shore of Mississippi, to ensure extent of British
+            territories worth keeping "as to afford a convenient retreat to the Tories." Americans
+            thought that this area, West Florida up to the Yazoo river, too valuable in its land and
+            position to give up. Also wanted to ensure British understood importance of navigation
+            of Mississippi for their own commerce so they would not make an agreement with Spain
+            ceding that right. However, increasing value of navigation also would increase value of
+            land bordering the river, disinclining the British to then let go of that territory.
+            Compromise reached that British would cede all right to territory about the Yazoo and
+            the Americans below in the case that the British had the Floridas at the end of the war.
+            Article thus quid pro quo rather than favor to the British. Decided to keep that article
+            secret because in full swing of negotiations between Spain France and Britain. Would
+            have upset Spain and involved the French. Americans not prohibited from making bargains
+            with the British that do not concern other nations. Also Spain had other pretensions
+            over that and other areas. Agrees that "honesty is the best policy" but sees no reason
+            to think their negotiations were not as they should be. Believes LivingstonÆs sentiments
+            motivated by sincerity but believes he does not have as complete an understanding of
+            events as those who were involved in the actual negotiations. Does not want to hurt
+            friendship with France; thinks the French minister acts with goodwill in so far as it
+            corresponds to the promotion of French interests. Would never sacrifice "our Faith, our
+            Gratitude or our Honor to any consideration of Convenience and may [God] also forbid
+            that we should ever be unmindful of the Dignity and independent Spirit which should
+            always characterize a free and generous People." Shall propose another article to
+            postpone payment of British debts as Congress wishes. Admits to ambiguities in articles
+            but should be seen in light of British desire to protect the Tories and ours to not
+            absolutely favor them. The phrase "real British Subjects" clearly to not include
+            American refugees. Sixth article about "no future confiscations" ought to have had fixed
+            a time more definitely but sees it as determined by end of hostilities and not binding
+            before. Evacuation of New York assured by Mr. Hartley; did not fix a time for it as
+            perhaps British would have left it until after definitive treaty, to United StatesÆ
+            disadvantage. Surprised at doubt in America over when hostilities ceased there, is one
+            month after the date of its declaration in all parts of the world, land or sea, north of
+            "latitude of the Canaries". Those ships in northern latitudes confiscated afterwards
+            should be reclaimed, as well as "the transportation of Negroes from New York" [followed
+            by first draft of letter to Robert Livingston]. LivingstonÆs doubts arise from belief
+            that: negotiators were overly distrustful and suspicious, that agreement signed without
+            prior knowledge of French court and that the separate article was not important but was
+            offensive to Spain, in addition to being kept secret from both nations. Reminder that
+            the American commissioners insisted on four things from the British a priori that the
+            French minister believed premature or excessive: treatment of America as independent
+            nation, agreement to boundaries claimed by the United States, fishing rights, and no
+            definite reinstatement of Tories. Evident that the French did not have American best
+            interest in mind, whatever the ministerÆs motive. Reason for not communicating articles
+            to French before signing: Lord Shelbourne feared would have to resign if no speedy
+            conclusion to war and saw negotiations as furthering this end. The British made
+            concessions would not have otherwise made. Also, the King agreed to ratify only what Mr.
+            Oswald should sign and seal, not a verbal agreement. French, if given articles, would
+            have postponed signing of agreement until French, Spanish and British treaty could be
+            signed as well. Delay giving opening for British to consider themselves not bound by
+            present articles and allowing France to pressure British to not concede to our demands.
+            Because signed in secret, avoided the necessity of offending the French by refusal to
+            postpone signing. Was "no breach of our treaty with France." Although admits that they
+            diverged from instructions of Congress, believes instructed to act for their own sake
+            and not that of France. Confidence between allies already marred by French ministerÆs
+            hiding of his articles, so should not be surprised if the Americans did the same.
+            [FranklinÆs comments on part of letter that did not go out] May not be the best idea to
+            attempt justification at present time, because matter is quiet in Europe, no letter sent
+            to Congress ever a secret, charges of LivingstonÆs reaction to them would be seen as
+            insult and denied. Situation still critical in Europe, should not be jeopardized.
+            Censure not that of Congress but of private citizen. Laurens also is not there so cannot
+            be part of justification. Save this part of letter for the future.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.10341</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.10341_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

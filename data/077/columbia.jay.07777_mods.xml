@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.07777</mods:identifier>
+   <mods:name>
+      <mods:namePart>Deane, Silas, 1737-1789</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1780 September 18</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>11</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1780 September 18</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17800918</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Has not neglected to write, but the news he had to communicate was not too
+            important. Spirits in America were raised by the foreign assistance, but the inferiority
+            at sea is unfortunate. American credit is lost in Europe. "It is almost as great a
+            disgrace to be known as an American as it was two years since an honor." H. Laurens has
+            been sent to obtain a loan, and Massachusetts, Pennsylvania, and Virginia have also sent
+            agents for the same purpose who bid against one another. More are expected to come.
+            "John Adams went from France disgusted and left the Court and people equally so with
+            him." The indecision of France is injurious to America. Lee and Izard undoubtedly will
+            declare that the sending of forces is an insidious design to continue the war. P.S.:
+            Cannot see Jay because he must settle his accounts. Mentions the actions of Adams, Lee,
+            and Izard concerning their accounts. The attitude toward Deane seems "in just" and "in
+            grateful." Disastrous consequences of the depreciation--loss of credit in Europe. 20
+            September: Thoughts on present situation of affairs. Reviews military operations and
+            foreign aid up to this time. Is inclined to agree with the argument that France wants
+            only to defeat England at the expense of America. They do not want to drive the British
+            from the American continent, but they desire to send over partial supplies from time to
+            time to keep the greater part of the British force occupied. Appearances favor this line
+            of reasoning "and will go far to credit it in America where as in all nations the people
+            resolve only from what they see." When the first application was made to the Court of
+            France the people favored America, but the Ministers did not. Now the situation is
+            reversed, but only one Minister favors America. Even though he has received only
+            friendly treatment from the French, he fears that his apprehensions are correct. France
+            can takeover the direction of affairs if England and the United States expend their
+            power in this war. If peace is not accomplished soon, American affairs will be
+            desperate.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.7777</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.07777_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

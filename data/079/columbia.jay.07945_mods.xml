@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.07945</mods:identifier>
+   <mods:name>
+      <mods:namePart>Livingston, Robert R.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1783 January 04</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>4</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1783 January 04</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17830104</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Livingston hopes that Jay's conjectures concerning France are unfounded.
+            France knows too well the condition of the United States to suppose that we might
+            consider a separate peace. It would be to the advantage of France to allow England to
+            acknowledge American independence at once without holding out for French concessions
+            which might be refused and thus incline America to consider separate proposals. French
+            answers to the direct proposal of Great Britain and that of the Imperial Courts seem to
+            have been based on this reasoning. (Remainder of the letter is contained in NNC: 7943)
+            Grenville commission made Vergennes hope that negotiations would open with an
+            unconditional acknowledgment of independence, but the change in administration brought
+            an alteration in this essential article. Vergennes now thinks that Shelburne wanted to
+            "divide and deceive." Vergennes does not intend to interfere in the Spanish demands, but
+            Livingston thinks that France's position toward Spain is very delicate and that
+            Vergennes is embarrassed by Spanish demands. Livingston is not surprised by the letter
+            from Marbois. He had always thought that the American claim to the fisheries was not
+            well-founded. But France has done nothing to discourage our hope for the fishery. France
+            certainly sees that if England would become our protector in the fishery, American
+            allegiance would soon change. Livingston thinks that Jay's opinion of the Marquis
+            d'Aranda may be wrong. "The last hope of Britain is founded on the distrusts they may
+            sow among their enemies." Livingston is interested in the letter from Marbois. The
+            British Commissioners may have altered it. Livingston has shown Jay's propositions to la
+            Luzerne, even though Jay had not sent them to the French.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.7945</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.07945_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

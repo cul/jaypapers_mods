@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.12589</mods:identifier>
+   <mods:name>
+      <mods:namePart>Thomson, Charles, 1729-1824</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1784 January 14 and 15, June 18, and August 9</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>4</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation"/>
+   <mods:abstract>Copies of 4 letters of 1784 from Thomson to Jay: 14 January, 15 January,
+            18 June, and 9 August. (1) 14 January: Acknowledges receipt of letter of 12 September
+            enclosing prints. Does not know whether the invention they depict will be or use or
+            remain a plaything. Congratulates Jay on return of peace. Definitive treaty ratified
+            today and is being carried over by Colonel J. Harmar, whom Thomson recommends to Jay's
+            attention. (2) 15 January: Although David S. Franks needs no introduction to Jay,
+            Thomson uses him as messenger for a letter. Franks entrusted with triplicate copy of
+            treaty ratification adopted 14 January by 3 states. Ratification "was done with the
+            unanimous consent not only of every State but of every member of Congress." Hopes that
+            when people's passions have cooled, a conciliatory spirit will prevail. His greatest
+            concern has been that there has been no New York delegate to Congress since November 1
+            because of law preventing meeting of state Assembly. This situation should improve as
+            New York Assembly is again in session. (3) 18 June. Receipt of Jay's letter of April 10.
+            Gratitude for Jay's kindness to J. Norris, whom Thomson had recommended. Norris's family
+            and background. Informs Jay of his election as Secretary for Foreign Affairs Does not
+            know what Jay's reaction will be "but this I am sure of that your Country stands in need
+            of your abilities in that office." Lists reasons that make Jay's acceptance imperative.
+            Thomson feels time has come "for us to think &amp; act like a Sovereign as well as a
+            free people," and Jay's acceptance will promote this feeling. Jefferson has been named
+            minister to France, and Jefferson has been added to Adams and Franklin as team to
+            negotiate commercial treaties in Europe. (4) letter of recommendation for Henry Remsen,
+            who was named Under Secretary in Office of Foreign Affairs in April so that he could
+            open papers sealed since Livingston left office. During years Remsen worked for Thomson,
+            he showed fidelity, Prudence, and diligence.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12589</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.12589_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

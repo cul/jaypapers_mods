@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.12202</mods:identifier>
+   <mods:name>
+      <mods:namePart>Hunter, Robert, 1666-1734</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Peyster, A. D.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Lords Commissioners for Trade and Plantations</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1719 June 04</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>9</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1719 June 04</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17190604</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Robert Hunter and the Council for the Province of New York are distressed
+            to find that "a Number of Men, Strangers to our persons and the Province, and we believe
+            but very little interested in the Trade of it" have become "Advocates of a few Male
+            contented here." Their suspicions are unwarranted and groundless. The purpose of the
+            bill is to pay long standing debts, some of which are back pay dating back to the
+            Glorious Revolution. Among those protesting the bill are men who were owed no money, or
+            who were already paid. There is no doubt that the Governor and persons concerned both in
+            New York and New Jersey will take the utmost care that the division line will be
+            properly drawn from 41 degrees 41' on the Delaware to 41 degrees on the Hudson. No
+            addition to New Jersey is probable or possible. The suggestion that New Jersey will
+            receive the County of Richmond is preposterous. The loss of quit rents is a weak
+            pretence for a protest, because there are no crown grants except in the Province of New
+            York, and none of these extend beyond the division line. Hunter and the Council ask the
+            Lords of Trade to advise the King to give his assent to this act for the just relief of
+            many persons and the credit and service of the government. Repeal of the act will be
+            attended by dangerous consequences. Signed by Robert Hunter, A. DePeyster, R. Walter,
+            Gert. Beekman, Rip Van Dam, John Barbarie, Thomas Byerly and John Johnston. Enclosed in
+            a letter from the Council of Trade dated 4 June 1719 in the Council office, New York.
+            Entered before the Commission to settle the boundary between New York and New Jersey 2
+            August 1769.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12202</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.12202_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

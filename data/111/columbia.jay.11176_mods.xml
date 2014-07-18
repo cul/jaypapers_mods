@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.11176</mods:identifier>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1769 July 18</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>19</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1769 July 18</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17690718</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>The agents of New Jersey, John Stevens, James Parker Henry Cuyler, Walter
+            Rutherford trace the claims of New Jersey from the time of King James I, who permitted
+            the States of Holland and their Subjects to possess all those tracts of land in North
+            America now called New York and New Jersey, as well as other tracts on the east and west
+            side of the Delaware River; and from the time these lands fell to England, When Charles
+            II's granted them to the Duke of York, and the Duke of York granted that part called New
+            Jersey to John Lord Berkeley and Sir George Carteret on 23 - 24 March 1664 and
+            reconfirmation of these grants after the treaty of Westminister in 1673. On 14 March
+            1682, for a sum of money, the Duke of York extinguished all claims for himself and his
+            heirs on the land called East New Jersey to John Lord Berkeley and Sir George Carteret.
+            Charles II signified his approval of the transaction in a letter dated 23 November 1683
+            to the governor and council of East New Jersey, and commanded that persons concerned in
+            that province yield all due obedience to the laws and government of the grantees, their
+            heirs and assigns as Absolute proprietors who have sole power and right derived under
+            the Duke of York from Charles II. The agents for the province of New Jersey state that a
+            line drawn from the latitude of 41 degrees on the Hudson to 41 0 degrees 40' has been
+            ascertained, and whether the Fishkill was the northernmost branch of the
+            Delaware.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.11176</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.11176_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

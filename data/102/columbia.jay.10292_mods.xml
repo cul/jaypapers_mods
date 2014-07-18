@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.10292</mods:identifier>
+   <mods:name>
+      <mods:namePart>Cooper, James Fenimore, 1789-1851</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, Peter A. (Peter Augustus), 1776-1843</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1830 July 15</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>2</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1830 July 15</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">18300715</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Begins to think of returning to America with his family, though the
+            youngest children are just beginning to reap advantages from their travels. Preferred
+            Italy and finds Germany "tame." The commonest items in New York are luxuries on the
+            Continent. Europe is divided into two parties, those trying to reap the advantages of
+            the Revolution and those trying to arrest them. The Church is trying to regain its lost
+            influence, and is supported by many who fear melioration of government will destroy
+            Christianity. The English system is greatly favored in Europe, where it is considered as
+            encouraging monopoly under pretense of liberality and freedom. England's objects are to
+            preserve monopolies and aristocracy and therefore to avoid war and revolution. The King
+            and Dauphine are unpopular in France and there is a powerful party in favor of are
+            public. If the King yields he will become a pageant as in England. The latter might risk
+            war rather than see France firmly in Africa. Is convinced that Napoleon's success lay in
+            the slowness of Germans; Italians would have beaten him had they not wished a change of
+            masters. Riots occurred during a recent celebration of the Reformation. Regrets that
+            America does not make greater show of naval force. If illiberals of Europe gain
+            ascendancy we will struggle for existence. Thinks England now at work in Southern states
+            to separate the Union; their rise depends on our downfall. Discusses the Anti-Union
+            party in Carolina, agrees on states' rights question. On slavery, would we not react the
+            same were property and life in jeopardy? Quotes a South Carolina paper that the Union
+            can be divided into five parts; this is English, not American idea. One work nearly
+            finished, another in progress. Now has the means of doing something else and hopes to
+            leave off writing as he never liked it except as are source against
+            poverty.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.10292</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.10292_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

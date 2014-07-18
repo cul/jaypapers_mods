@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.01170</mods:identifier>
+   <mods:name>
+      <mods:namePart>Morris, Robert, 1734-1806</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1781 July 4</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>13</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 July 4</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17810704</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Copy in the hand of Brockholst Livingston of document 7003. The confusion
+            and inefficiency of the government have prompted Congress to appoint a Superintendent of
+            Finance. This office must have two goals: a revenue of the greatest convenience to the
+            people and expenditures with the greatest economy. The requisitions from the states have
+            created a large favorable balance, while "the dangerous practice of taking articles for
+            the public service and giving certificates to the people has created a very general and
+            heavy debt." A large balance must remain, and it must be provided for by loans or
+            subsidies. Yet a great number of inhabitants do not have the ability to lend, and our
+            credit is not good. Therefore, we must turn to friendly nations abroad. Holland cannot
+            give money, and France is already spending a great deal on her own part in the war.
+            Therefore we must ask Spain for a considerable amount. The task is up to Jay. The
+            resolutions of Congress of 10 March 1780 have not been successful. The new money is
+            depreciating, and to issue paper now would be ineffectual. Taxes are not and cannot be
+            high enough. Expresses confidence in American troops and in the American spirit of
+            independence. The proposed siege of New York will soon begin. Advantages to Spain in
+            lending money to the U.S. Their enemy will be weakened. U.S. may assist Spain in the
+            conquest of Florida and the Bahamas and perhaps of Jamaica. We can then conquer Nova
+            Scotia with its valuable resource of ship timbers. The U.S. will pay back loans, and
+            Spain will be able to expel the English from the Bay of Mexico and halt the contraband
+            commerce there. The opening of a port in east Florida would be a security to the Spanish
+            dominion. We cannot be dangerous because the attention of this country " for a century
+            to come most probably will be entirely turned to agriculture and commerce." Jay must
+            present these arguments and others that he can think of.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.1170</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.01170_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

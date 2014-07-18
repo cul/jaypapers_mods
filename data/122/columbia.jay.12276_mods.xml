@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.12276</mods:identifier>
+   <mods:name>
+      <mods:namePart>Board of Trade</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>George II, King of Great Britain, 1683-1760</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1753 July 18</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>12</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1753 July 18</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17530718</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>The act in question comes from the Province of New Jersey, which is
+            interested in 1. the advantages which New Jersey might obtain from it. 2. the
+            determination of the boundary between Italy &amp; New York. The province of New Jersey
+            by itself can neither make nor establish boundaries, and cannot prescribe regulations
+            for deciding differences between itself and the province of New York. The present act,
+            without the concurrence of New York, is unwarrantable and ineffectual. It is in the
+            interest of the King not to support the act of the New Jersey legislature, but to
+            establish a commission to settle the boundary. It is also in the King's interest to see
+            that New York maintains as much land as belongs to it, because the King would otherwise
+            be deprived of quit rents by the proprietors. In the case of exorbitantly large grants
+            with very inconsiderable quit rents, one might reasonably suppose that the Crown has
+            been deceived in such grants by its officers. It appears that Governor Hunter ought not
+            have issued his commission for running the line without having received previous royal
+            direction, and that a commission issued without such authority, when the interests of
+            the crown are considered, is a nullity. It is also of questionable validity as far as
+            new York itself is concerned, because it does not follow the act passed there in 1717,
+            which declares that such commission should be issued under the joint authority of the
+            governor and council of province. However, the crown has already confirmed Hunter's
+            transaction.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12276</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.12276_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

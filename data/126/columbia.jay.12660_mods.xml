@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.12660</mods:identifier>
+   <mods:name>
+      <mods:namePart>Washington, George, 1732-1799</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1786 August 01</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>0</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1786 August 01</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17860801</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Acknowledges receipt of 27 June as well as "the other communications you
+            had the goodness to make at the same time." Washington is sorry to "be assured, of what
+            indeed I had little doubt before, that we have been guilty of violating the treaty in
+            some instances." Washington agrees with John Jay in the opinion that "our affairs are
+            drawing rapidly towards a crisis." Experience has proved that "men will not adopt and
+            carry into execution, measures the best calculated for their own good, without the
+            intervention of a coercive power. I do not conceive we can exist long as a nation
+            without having lodged somewhere a power which will pervade the whole union in as
+            energetic a manner as the authority of the State Governments extend over the several
+            States." To refuse to give such power to Congress appears to Washington to be "the very
+            climax of popular absurdity &amp;madness." It is true that this solution might not be
+            perfect, for "perfection falls not to the share of mortals." Washington also agrees with
+            Jay that if the present state affairs should continue much longer, "that the better kind
+            of people being disgusted with the circumstances, will have their minds prepared for any
+            revolution whatever." Now "even respectable characters speak of a monarchical form of
+            Government without horror. From thinking proceeds speaking, thence to acting is often
+            but a single step." If will be unfortunate if the advocates of despotism find that "we
+            are incapable of governing ourselves, &amp; that systems founded on the basis of equal
+            liberty are merely ideal &amp; fallacious!" Although Washington is retired from the
+            world he is no unconcerned spectator. But he does not feel that he any longer has "some
+            claims to public attention" such as he had during and after the war. Therefore, his
+            opinions would have little weight on the minds of his countrymen.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12660</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.12660_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

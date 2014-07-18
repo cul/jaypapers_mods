@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.09598</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Murray, John, 1758-1819</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1818 April 15</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>12</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1818 April 15</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">18180415</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Further thoughts on whether all war is forbidden by the Gospel. The Moral
+            Law was given by God to all mankind; being founded on essential right, it can require no
+            amendment. On the other hand, divine ordinances are founded on expediency and are under
+            limited obligation. Our Savior assures us that He came not to destroy, but to fulfill
+            the Law and the Prophets, that the Law and the Commandments are holy, just and good.
+            Moses' law of retaliation was a legal penalty for certain offenses and not an
+            encouragement of revenge. The Patriarchs sometimes violated Moral Law, for they were
+            only men, but never did they do so by the authority of God, nor is any action according
+            to Moral Law censured by the Gospel. Therefore, since divine ordinances authorized just
+            war, this has not been abolished by the Gospel. The war between Abraham and David is an
+            example of just war. Against the argument that Christ forbade all war, offers the
+            instance at the end of the Last Supper, where the Lord says, "He that hath no sword, let
+            him now sell his garment and buy one." Explains further instances involving swords
+            before the Crucifixion. Jesus restrained his disciples from fighting for the reason that
+            His kingdom was not of this world, and corporeal soldiers and weapons were inapplicable.
+            However, He stated that if His kingdom had been of this world, then would His servants
+            fight to protect Him. To John Jay the Gospel appears to consider the servants of Christ
+            as bound to fight his spiritual enemies with spiritual weapons, and as subjects of a
+            worldly state to be required to fights its worldly enemies. The wickedness inherited
+            from mankind's first parents necessitated government by nations, each with authority to
+            protect itself against domestic and foreign offenders. The Gospel enjoins us to obey our
+            ruler as the minister of God, as he "beareth not the sword in vain." Also it must be
+            considered reasonable that he use force to maintain the rights of his people against
+            evildoers of other nations. Cannot think that the Gospel encourages us to abstain from
+            resistance and expect miracles to deliver us. It is true that war and government are
+            attended with evils, but they are means to avert greater ones. War kills, but so do
+            peaceful occupations. The time will come when swords will be beaten into plowshares, but
+            in the meanwhile our defenses must be maintained. Mankind must be prepared for universal
+            peace before they can receive it.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.9598</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.09598_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.07784</mods:identifier>
+   <mods:name>
+      <mods:namePart>Deane, Silas, 1737-1789</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1780 November 16</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>13</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1780 November 16</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17801116</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Apologizes for his complaining. Reviews the facts of his case. Deane did
+            not know that he was accused of any fault other than not having settled his accounts.
+            Repeats his accusation against Adams, Lee, etc. Their case is the same as his, but they
+            were not accused. Deane is now saddled with the burden of all the unsettled accounts.
+            Defends the measures he took. It is a proof of their friendship that Jay thinks that
+            some of them were not prudent. Deane has full proof of the duplicity of friends in
+            Congress. Those who appeared to support Deane against the Lee faction have declared that
+            they desired to use Deane to destroy Lee's group. Even though Deane has found a large
+            balance in his favor in the accounts, he doubts it will exonerate him. The bulk of the
+            people mean well, but the men in public office are dishonest. Deane has collected
+            materials to prove his innocence, but he doubts it can be published in America or in
+            Europe, where American intrigues and cabals are regarded with contempt. Mr. Williams,
+            who was implicated with Deane, had his accounts audited by the auditor of Congress, and
+            he was shown to be perfectly innocent. However, Congress has, as yet, taken no notice.
+            Congress gives little attention to being just to their servants. Jay has said that Spain
+            wants the Mississippi. Deane thinks that Spain will not be of much help in the war. For
+            them it will be all gain and no loss. England wants war and has the money. Congress must
+            be much more energetic. H. Laurens stupidly allowed his packet to fall into English
+            hands. Deane distrusts France. Secret negotiations exist in France as well as in
+            Spain.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.7784</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.07784_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.10920</mods:identifier>
+   <mods:name>
+      <mods:namePart>Gates, Horatio, 1728-1806</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1779 January 29</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>7</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1779 January 29</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17790129</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Believes the British magazines of provisions are being exhausted very
+            quickly. Admiral Gambier goes from New York to New London in three ships with 367
+            prisoners; Admiral Byron sent 144 prisoners to General Sullivan from Rhode Island;
+            Admiral Hughes just arrived in Boston from Halifax with another 115. General Heath
+            wishes CongressÆs commands on the prisoner Ensign John Brown, held under sentence of
+            death in Boston. He also asks what he should do with the ten thousand dollars given to
+            him by the paymaster of the troops. Asks Congress to take immediate steps to secure
+            flour for the magazines; the poor inhabitants of Boston have too little and he could not
+            supply them with the Continental ArmyÆs supply, as it was too low. Encloses copy of
+            letter from General Jacob Bayley, with reports from Canada: Canadians believe that the
+            Continental Army is about to attack them; wishes that we could because it would not take
+            much to be successful. Sends this letter by Colonel Little, who should be asked about
+            that country, as he knows it well. Please send arms, as fears an attack. Encloses copy
+            of letter by Colonel Timothy Bedel: that they are very low on blankets and ammunition.
+            General Washington informed him of a resolve of Congress about providing clothing to his
+            regiment in December, but has heard nothing since and would like to give clothes to
+            Captain Traversie and some Indian chiefs. Has heard good reports from Canada by Indians
+            coming from there, that the inhabitants wait for the Americans with impatience. Has 200
+            men on duty but only 50 blankets, and the barracks are not yet
+            livable.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.10920</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.10920_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

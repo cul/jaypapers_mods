@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.04262</mods:identifier>
+   <mods:name>
+      <mods:namePart>Randolph, Edmund, 1753-1813</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1794 May 06</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>6</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1794 May 06</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17940506</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Instructions as Envoy Extraordinary: John Jay to assure Pinckney that his
+            appointment as Envoy Extraordinary is no reflection on Pinckney's conduct of his office.
+            In negotiations with British, keep them aware of America's indisposition to war, unless
+            forced to vindicate national honor. If Ministry seems bent on war, keep British nation
+            from being carried along. Explicit instructions on maritime spoliations. Enclosures
+            listed. Press for compensation. When only items of compensation are left unsettled--of
+            all the matters to be treated--this may be entrusted "to any skilful and confidential
+            person whom you may appoint." If British negotiators object, at any point, that punitive
+            commercial measures necessary because of American pro-French sentiments, dismiss this as
+            irrelevant. Treaty of Peace--Jay conversant with all details of negotiation and
+            violations. Insist on restraint of British agents now up trouble among Indians on
+            frontiers. Commercial treaty--If two preceding questions can be worked out
+            satisfactorily to both parties, broach question of possible commercial treaty. Lists 19
+            points as "general objects." Shipping, neutrality laws, privateering among points
+            listed. If possible, negotiate for direct American trade to British West Indies. If
+            British Government will not consent to "general objects," do not conclude treaty, but
+            refer to U.S. the points upon which Britain willing to agree. If possible, seek end of
+            enumeration of American goods to Great Britain. If advisable, consult members of "the
+            Armed Neutrality" if it seems likely that U.S. will need European allies. No harm in
+            consulting Denmark and Sweden on Algerian situation. JJ may use own discretion in
+            following these "recommendations" with two exceptions: (1) not to violate any
+            engagements with France (2) not to conclude Commercial Treaty contrary to these
+            instructions.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4262</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.04262_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.10135</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>United States. Continental Congress</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1786 October 13</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>65</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1786 October 13</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17861013</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Copy made for Jefferson. Sets forth the state of negotiations between
+            Adams and Carmarthan. Adams has made representations concerning the western posts, only
+            to receive a detailed allegation of the manner in which the United States has violated
+            the treaty through state actions. Jay proceeds to consider the various state statutes
+            involved, after making a preliminary comment that the several states cannot abrogate a
+            treaty through their statutes, for this is an aspect of the sovereignty which is vested
+            in Congress. Confiscation of debts is a war power, exercisable by Congress, if at all,
+            and no such act was taken by Congress. Jay points out the British refusal to recognize
+            the difference between subjects of Britain, and those who, owing allegiance to the
+            United States, acted in concert with British forces against the United States. Finally
+            he points out that in regard to lands confiscated from Loyalists, the treaty provided
+            only that Congress would recommend restitution, not that it would make restitution.
+            Those British subjects who, subsequent to 1776, attempted to take title to American
+            lands, take nothing. They were aliens at the time of the attempted conveyance, and under
+            British and American law, the grant of land to an alien works a forfeiture to the
+            sovereign. Jay condemns the New York Trespass act. He suggests that the slaves carried
+            from New York should be made the subject of restitution, since it would be in human for
+            Britain to return them to the rigors of their masters punishment. In point of time the
+            deviations from the treaty by the United States preceded those of Britain; thus they
+            offer excuse to Britain for her subsequent conduct. Congress should insist upon
+            obedience to the treaty by the various states, obtain repeal of the offending acts,
+            eliminate legislative impediments to the collection of debts, and let the courts
+            determine issues of interest and depreciation of currency. (Enclosed: Memo of John Adams
+            to British government, 30 Nov., 1785. Secretary of State Carmarthen to John Adams, 28
+            Feb., 1786)</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.10135</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.10135_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.05524</mods:identifier>
+   <mods:name>
+      <mods:namePart>Clinton, George, 1739-1812</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1781 April 6</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>4</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 April 6</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17810406</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>John Jay's letter of 20 June 1780 is the third and last letter Clinton
+            received since John Jay's arrival in Europe. He has written three to John Jay, the last
+            dated 1 June 1780. He is sorry, but not too surprised that John Jay has received none of
+            them. There have been no radical changes in New York since John Jay's departure, except
+            for the abandonment of several frontier settlements and the destruction of much of Tryon
+            Country and Schoharie. Westchester, often under attack by the enemy, has maintained its
+            ground far beyond expectations. "Every Man, indeed every Boy, has become a Soldier, and
+            I do not believe a superior Spirit of Bravery &amp; Enterprize ever possessed a
+            People..." Because of the incursions of the enemy and exclusion from Commerce, America's
+            finances have declined since John Jay left for Europe. But there is an abundance of
+            provisions, and prices in specie are nearly the same as at the beginning of the war. The
+            enemy which awaited the expiration of the term for which the army was engaged, was
+            greatly disappointed at the new establishment of the military forces. Clinton does not
+            know about the other states, but is happy to inform John Jay that New York's quota, one
+            regiment of artillery and two of infantry, is nearly completed. Men are more eager to
+            enter the service than at any other time since the beginning of 1777, and now every
+            recruit is a seasoned soldier. Clinton was pleased with John Jay's plan of trade, but
+            for reasons which he cannot mention, decided that it was too late to attempt it.
+            Schuyler is in the Senate; Livingston is a Special Delegate to Congress; Morris is
+            practicing law in Philadelphia. The controversy about Vermont is still unsettled, but
+            Clinton has reason to think it will reach a just and speedy conclusion. The
+            Confederation may expedite this.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.5524</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.05524_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

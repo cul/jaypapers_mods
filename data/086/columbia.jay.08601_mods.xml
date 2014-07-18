@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.08601</mods:identifier>
+   <mods:name>
+      <mods:namePart>Scott, John Morin, 1730-1784</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Yates, Abraham</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1776 September 06</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>4</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1776 September 06</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17760906</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>In answer to the Convention's request for information about events in New
+            York, Scott describes the retreat from Long Island, a retreat made necessary because
+            they could not defend their lines and because the English threatened to encircle them.
+            The resolution to retreat was unanimous, and was accomplished without the loss of a
+            single soldier although some heavy cannon had to be abandoned. The retreat cost them
+            Governor's Island. He cannot estimate what their loss on Long Island amounted to. He
+            notes, however, that morale is very low among the troops and that everyone is eagerly
+            awaiting the arrival of General Lee, who it is hoped will revive the spirits of the
+            troops. At present the army is divided into three divisions. One is in the city where
+            Scott and his brigade are under the command of Major General Putnam. A second division
+            is under Major General Spencer and it is situated between Harlem and the first division.
+            A third is under Major General Heath at Kings Bridge. They are unaware of the enemy's
+            plans but he suspects that they will make an attempt on Westchester County in order to
+            cut their communications with the continent. He favors abandoning the city and making a
+            strong post at Kings Bridge heights while armed vessels are placed at the mouth of
+            Spuyten Devil on the East River. "God knows what will be the event of this campaign,"
+            laments Scott, but he assures the Convention that he will not disgrace their
+            appointment. General Woodhull was recently made prisoner. In a postscript he notes that
+            the army is badly paid and wretchedly fed. About 1,100 men arrived from the southward. A
+            deserter reports that there are 3,000 foreign troops on Staten Island and there is a
+            rumor that there are 26,000 enemy troops on Long Island, though he thinks the latter
+            figure an exaggeration.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.8601</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.08601_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

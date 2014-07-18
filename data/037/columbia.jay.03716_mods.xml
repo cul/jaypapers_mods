@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.03716</mods:identifier>
+   <mods:name>
+      <mods:namePart>United States. Continental Congress</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1786 August 29</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>13</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1786 August 29</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17860829</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Motion of the delegates of Virginia: Not to our advantage to make a
+            commercial treaty with Spain because her ports are open to all. They recognize the
+            designation only of contraband or non-contraband. We need laws however to protect our
+            commerce. We possess the navigation of the Mississippi by right and it is necessary in
+            order to bind the states together in firm union. Carmichael should agree with Spanish
+            court on the principles of a treaty to be mediated by France and Jay should form it in
+            conjunction with two others. The subject of commerce should not be considered since this
+            power given to our ministers in Europe in 1784. The following principles should be
+            established: 1) New Orleans made an entrepot for bona fide goods of the U.S. coming down
+            the river and these same boats can ascend the river empty; 2) a duty shall be paid on
+            such produce which can only be exported in Spanish, American or French vessels. The U.S.
+            can appoint a Consul to reside there and American factors can stay there to manage
+            exportations. The boundaries must be those of the treaty of 1783. These are the only
+            terms of a treaty. Jefferson to have a copy of these instructions and communicate them
+            to France. Jay's former instructions to be repealed. A commercial treaty shall be formed
+            on the basis of most favored nation status but not reciprocity. The question to consider
+            this motion by Virginia was lost. The first resolution of the Committee of Whole of 28
+            August was agreed to 7-5.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.3716</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.03716_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

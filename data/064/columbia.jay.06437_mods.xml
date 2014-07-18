@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.06437</mods:identifier>
+   <mods:name>
+      <mods:namePart>Jay, Sarah Livingston</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Symmes, Susan Livingston</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1780 August 28</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>14</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1780 August 28</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17800828</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Comments on the closeness of death before the safe arrival at Martinique.
+            The passage to Cadiz was pleasant, but Mrs. Jay was indisposed due to rough weather and
+            another reason "I leave you to conjecture." From Cadiz the Jay party journeyed to Port
+            St. Mary in a barge belonging to Mr. Galvez, Commandant of the Bay and brother to the
+            Minister for Indian Affairs. The barge was ornamented with a canopy and cushions of
+            crimson damask beautifully fringed, and the trip was very pleasant. They stayed the
+            night with the Count and Countess O'Reilly and regretted leaving Port St. Mary the next
+            day. The awkwardness and filth of everything in Spain is beyond description. The
+            carriages and drivers were like nothing they had ever seen before. The Jays brought with
+            them everything they would need for the journey, but they had to purchase in Spain the
+            most essential item--a broom to sweep out the bugs and filth. They slept on a Catalonian
+            bed-from-a-trunk. Next door slept mules with their bells. Description of the view
+            approaching Cordova at sunset. In Cordova they met several Irish gentlemen who had
+            retired there from the seaports, and Mr. Moyland went with them to the Cathedral.
+            Description of this church which was once a Moorish mosque. They continued on their
+            journey the next day because "Mr. Jay's maxim is to prefer business to pleasure."
+            Description of graves along the roadside, aridity of southern Spain.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.6437</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.06437_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

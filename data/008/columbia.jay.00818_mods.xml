@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">columbia.jay.00818</mods:identifier>
+   <mods:name>
+      <mods:namePart>Livingston, Robert R.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+         <mods:roleTerm type="text">author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+         <mods:roleTerm type="text">addressee</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Document, 1782 April 26</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent>9</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1782 April 26</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17820426</mods:dateCreated>
+   </mods:originInfo>
+   <mods:abstract>Will express sentiments of Congress towards JayÆs conduct and that of
+            Spain. Congress had expectations of that country. Has heard that Spanish king is honest
+            and dignified, and believes that the fate of the United States is important for a
+            sovereign with control in the region. Assume the delaying tactics of his ministers do
+            not originate with the king, that eventually his sentiments will influence his
+            government. When Spain went to war with England, thought the Spanish would declare in
+            favor of the United States. Disappointments aggravated by attempts of enemies of both
+            countries to create discord between them, by alleging that Spain is waiting for a
+            weakened United States in order to gain concessions and play a greater role in the
+            aftermath of war. Congress needs to be able to justify to its constituents as great a
+            concession as navigation on the Mississippi, and it has not been clear what Spain wants
+            in return. A subsidy or loan is all that is wanted, especially as the United States is
+            helping Spain by diverting British forces. FranceÆs understanding of this service
+            demonstrated by aid given. Although Jay hinted that the Spanish postpone making a treaty
+            until general peace, thereby ensuring more favorable terms, cannot believe they would do
+            something so dishonorable. Apparently Count de Floridablanca wants to have the Gulf of
+            Mexico; hard to reconcile it to demand Spanish made for Gibraltar. Believes as a maxim
+            that a state cannot at the end of a war ask for more than restitution of prior claims or
+            just compensation. If Spain thus has no right to Gibraltar, only just compensation, by
+            what right then should they have the Gulf of Mexico or navigation of the Mississippi?
+            The United StatesÆs claims are much better founded. Jay should not concede navigation of
+            the Mississippi if Spain seeks advantage by postponing a treaty. General peace treaty
+            will be conducted conjointly with the other American ministers. Should communicate
+            freely with Spain and expect the same courtesy. Grateful to Spanish for rejecting
+            separate offer of Great Britain. The United States prefers "general interest of the
+            powers against Great Britain to any partial advantage that they might receive from a
+            connection with them." Current news reports about Charleston premature. 400 men who
+            embarked said to be detachment from New York troops. Great Britain appears not to
+            continue offense southward since they only have 3000 men in Charleston and
+            Savannah.</mods:abstract>
+   <mods:note>The entire content of the original has been digitized.</mods:note>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
+      <mods:physicalLocation type="text">Royal Archives, Windsor
+                        Castle</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.818</mods:url>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:nonSort>The</mods:nonSort>
+         <mods:title>Papers of John Jay</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>columbia.jay.00818_mods.xml</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>
