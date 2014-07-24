@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <mods:identifier type="local">columbia.jay.04045</mods:identifier>
    <mods:name>
       <mods:namePart>Griswold, Matthew, 1714-1799</mods:namePart>
@@ -40,9 +42,8 @@
       </mods:name>
    </mods:subject>
    <mods:location>
-      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
-      <mods:physicalLocation type="text">Royal Archives, Windsor
-                        Castle</mods:physicalLocation>
+      <mods:physicalLocation authority="marcorg" type="code">PHi</mods:physicalLocation>
+      <mods:physicalLocation type="text">Historical Society of Pennsylvania</mods:physicalLocation>
       <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4045</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">

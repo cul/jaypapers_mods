@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../mods_ingest_check.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <mods:identifier type="local">columbia.jay.05822</mods:identifier>
    <mods:name>
       <mods:namePart>Jay, John, 1745-1829</mods:namePart>
@@ -26,7 +27,7 @@
    </mods:physicalDescription>
    <mods:originInfo eventType="creation">
       <mods:dateCreated>1786 July 03</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes">178607<!--03--></mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">17860703</mods:dateCreated>
    </mods:originInfo>
    <mods:abstract>Congress has instructed him to prepare an account of the slaves carried
             away by the British forces; he has had a clerk working on the account for six weeks, and
@@ -44,9 +45,9 @@
       </mods:name>
    </mods:subject>
    <mods:location>
-      <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
-      <mods:physicalLocation type="text">Royal Archives, Windsor
-                        Castle</mods:physicalLocation>
+      <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+      <mods:physicalLocation type="text">Columbia University, Butler Library, Rare Book &amp; Manuscript
+            Division</mods:physicalLocation>
       <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.5822</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
@@ -64,8 +65,7 @@
          <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</mods:url>
       </mods:location>
    </mods:relatedItem>
-   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit
-      http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
+   <mods:accessCondition type="use and reproduction">For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</mods:accessCondition>
    <mods:recordInfo>
       <mods:languageOfCataloging>
          <mods:languageTerm>eng</mods:languageTerm>
