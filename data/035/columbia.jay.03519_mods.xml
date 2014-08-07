@@ -45,7 +45,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">Ct</mods:physicalLocation>
       <mods:physicalLocation type="text">Connecticut State Library</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.3519</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.03519</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

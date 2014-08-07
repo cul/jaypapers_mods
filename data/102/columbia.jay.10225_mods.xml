@@ -46,7 +46,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">DLC</mods:physicalLocation>
       <mods:physicalLocation type="text">Library of Congress</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.10225</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.10225</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

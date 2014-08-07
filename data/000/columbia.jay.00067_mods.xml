@@ -49,7 +49,7 @@
       <mods:physicalLocation authority="marcorg" type="code">TxAuHRH</mods:physicalLocation>
       <mods:physicalLocation type="text">Harry Ransom Humanities Research Center, University of Texas at
             Austin</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.67</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.00067</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

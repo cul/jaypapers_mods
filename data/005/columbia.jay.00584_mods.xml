@@ -46,7 +46,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">MdAN</mods:physicalLocation>
       <mods:physicalLocation type="text">United States Naval Academy</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.584</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.00584</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

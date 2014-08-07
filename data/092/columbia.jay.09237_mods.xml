@@ -44,7 +44,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">StEdNL</mods:physicalLocation>
       <mods:physicalLocation type="text">National Library of Scotland, Department of Special Collections</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.9237</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.09237</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>
