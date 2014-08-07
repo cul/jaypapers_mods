@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+    xmlns:mods="http://www.loc.gov/mods/v3" exclude-result-prefixes="xs xd" version="2.0">
+    <xd:doc scope="stylesheet">
+        <xd:desc>
+            <xd:p><xd:b>Created on:</xd:b> Jul 1, 2014</xd:p>
+            <xd:p><xd:b>Author:</xd:b> terry</xd:p>
+            <xd:p/>
+        </xd:desc>
+    </xd:doc>
+    <xsl:template match="/">
+        <xsl:apply-templates select="//row"/>
+    </xsl:template>
+    <xsl:template match="row">
+        <xsl:result-document encoding="utf-8" href="data/{child::control_name}_mods.xml"
+            indent="yes">
+            <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+                <mods:identifier type="local">
+                    <xsl:value-of select="child::control_name"/>
+                </mods:identifier>
+                <xsl:apply-templates
+                    select="*[starts-with(local-name(), 'author')][normalize-space(.)][not(contains(local-name(), '_'))]"/>
+                <xsl:apply-templates
+                    select="*[starts-with(local-name(), 'recipient')][normalize-space(.)][not(contains(local-name(), '_'))]"/>
+                <mods:titleInfo supplied="yes">
+                    <mods:title>
+                        <xsl:value-of select="replace(child::title,'[\[\]]+','' )"/>
+                    </mods:title>
+                </mods:titleInfo>
+                <mods:physicalDescription>
+                    <mods:extent>
+                        <xsl:value-of select="child::num_pages"/>
+                    </mods:extent>
+                    <mods:form authority="gmgpc">correspondence</mods:form>
+                    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+                </mods:physicalDescription>
+                <mods:originInfo eventType="creation">
+                   <xsl:apply-templates
+                        select="child::date1[ancestor::row/date2[not(normalize-space(.))]]"
+                        mode="single"/>
+                    <xsl:apply-templates select="child::row/date2[ancestor::date2[normalize-space(.)]]"
+                        mode="range"/>
+                </mods:originInfo>
+                <mods:abstract>
+                    <xsl:value-of select="child::abstract_display"/>
+                </mods:abstract>
+                <mods:note>The entire content of the original has been digitized.</mods:note>
+                <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+                <mods:subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140139">
+                    <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
+                </mods:subject>
+                <mods:subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/n79088877">
+                    <mods:name authority="naf">
+                        <mods:namePart>Jay, John, 1745-1829</mods:namePart>
+                    </mods:name>
+                </mods:subject>
+                <mods:location>
+                    <mods:physicalLocation authority="marcorg" type="code"
+                        ><xsl:value-of select="repository_code"/></mods:physicalLocation>
+                    <mods:physicalLocation type="text"><xsl:value-of select="repository"/></mods:physicalLocation>
+                    <mods:url usage="primary display" access="object in context">
+                        <xsl:text>http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.</xsl:text>
+                        <xsl:value-of select="format-number(child::jay_id, '00000')"/>
+                    </mods:url>
+                </mods:location>
+                <mods:relatedItem type="host" displayLabel="Project">
+                    <mods:titleInfo>
+                        <mods:nonSort>The</mods:nonSort>
+                        <mods:title>Papers of John Jay</mods:title>
+                    </mods:titleInfo>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm>New York, NY</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Columbia University Libraries</mods:publisher>
+                    </mods:originInfo>
+                    <mods:location>
+                        <mods:url>
+                            <xsl:text>http://www.columbia.edu/cgi-bin/cul/resolve?AVE8231</xsl:text>
+                        </mods:url>
+                    </mods:location>
+                </mods:relatedItem>
+                <mods:accessCondition type="use and reproduction">
+                    <xsl:text>For rights relating to this resource, visit http://www.columbia.edu/cu/lweb/digital/jay/copyright.html</xsl:text>
+                </mods:accessCondition>
+                <mods:recordInfo>
+                    <mods:languageOfCataloging>
+                        <mods:languageTerm>eng</mods:languageTerm>
+                    </mods:languageOfCataloging>
+                    <mods:recordIdentifier>
+                        <xsl:value-of select="child::control_name"/>
+                        <xsl:text>_mods.xml</xsl:text>
+                    </mods:recordIdentifier>
+                    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+                    <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
+                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+                </mods:recordInfo>
+            </mods:mods>
+        </xsl:result-document>
+    </xsl:template>
+    <xsl:template match="*[starts-with(local-name(), 'author')]">
+        <mods:name>
+            <mods:namePart>
+                <xsl:value-of select="."/>
+            </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                <mods:roleTerm type="text">author</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+    </xsl:template>
+    <xsl:template match="*[starts-with(local-name(), 'recipient')]">
+        <mods:name>
+            <mods:namePart>
+                <xsl:value-of select="."/>
+            </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="code">rcp</mods:roleTerm>
+                <mods:roleTerm type="text">addressee</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+    </xsl:template>
+    <xsl:template match="date1" mode="single">
+        <mods:dateCreated>
+            <xsl:value-of select="ancestor::row/date_eye_readable"/>
+        </mods:dateCreated>
+        <mods:dateCreated encoding="w3cdtf" keyDate="yes">
+            <xsl:value-of select="."/>
+        </mods:dateCreated>
+    </xsl:template>
+    <xsl:template match="date1" mode="range">
+        <mods:dateCreated>
+            <xsl:value-of select="ancestor::row/date_eye_readable"/>
+        </mods:dateCreated>
+        <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
+            <xsl:value-of select="."/>
+        </mods:dateCreated>
+        <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">
+            <xsl:value-of select="ancestor::row/date2"/>
+        </mods:dateCreated>
+    </xsl:template>
+</xsl:stylesheet>
