@@ -40,7 +40,7 @@
                    <xsl:apply-templates
                         select="child::date1[ancestor::row/date2[not(normalize-space(.))]]"
                         mode="single"/>
-                    <xsl:apply-templates select="child::row/date2[ancestor::date2[normalize-space(.)]]"
+                    <xsl:apply-templates select="child::date1[ancestor::row/date2[normalize-space(.)]]"
                         mode="range"/>
                 </mods:originInfo>
                 <mods:abstract>
