@@ -39,7 +39,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1810 January 12 and 15</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">18100112</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">18100115</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>His "poor mother" (Eve Jay Munro) has relapsed." She appeared to be
             gaining strength until the 10th, but the women who help her noticed then that she
             suffered palsy on her left side. With draft of John Jay's reply of 15

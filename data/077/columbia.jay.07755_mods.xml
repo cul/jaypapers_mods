@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 February 20 and March 9</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810220</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810309</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Duplicate and triplicate copies of documents 11352 and
             13505.</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>

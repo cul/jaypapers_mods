@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1780 August 10 - 1780 August 11</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17800810</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17800811</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Although Floridablanca denies it, he believes that the person which John
             Jay and he expected, has arrived, and lodges in Floridablanca's house and goes under the
             name Dolba. Estaing is in excellent spirits and has frequent visits with Floridablanca.

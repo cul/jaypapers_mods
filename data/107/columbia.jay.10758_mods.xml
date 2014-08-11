@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1791 September 10 and August 3</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17910910</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17910803</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Jay sends Hamilton copies of his letter from Jacob Cuyler (3 August 1791)
             and his reply to Cuyler of 10 September. Cuyler writes to ask Jay's help in obtaining a
             job in the United States Treasury Department for his son. Jay's reply promises that he

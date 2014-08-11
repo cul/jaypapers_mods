@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 March 10 and 20</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810310</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810320</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>News of military victories in South. News that Cornwallis is in retreat --
             "We shall soon drive the scoundrels from that country." Generals Mughlenburgh and Nelson
             laying siege to Arnold at Portsmouth, but he can escape unless the French fleet

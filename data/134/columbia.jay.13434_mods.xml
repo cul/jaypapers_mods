@@ -39,7 +39,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1786 May 25 - 1788 October 17</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17860525</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17881017</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Contemporary copies of correspondence between Jay and Gardoqui and Jay
             reports to Congress on their negotiations. 25 May 1786 - 17October
             1788</mods:abstract>

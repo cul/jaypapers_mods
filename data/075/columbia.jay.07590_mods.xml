@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>n.d. and 1780 March 2, February 19, February 29</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17800302</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17800229</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Memoranda of codes used by John Jay. 3 Codes used with Silas Deane; and
             reference to suggested change in code included in John Jay to Deane, 2 October 1780.
             Code used with Robert R. Livingston Code used with Frederick Jay as explained in letter

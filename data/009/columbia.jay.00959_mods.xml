@@ -81,7 +81,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1714 April - 1726 December 30</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1714-04</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17261230</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Group of papers from the records of Trinity Church including Robert
             Morris's commission and letters from William Vesey, et al., to the Bishop of London (14
             April 1714) and correspondence between Vesey, Bolingbroke, Hunter, David Humphrey,

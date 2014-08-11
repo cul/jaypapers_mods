@@ -32,7 +32,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 April 2 -1783 March 11</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810402</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17830311</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>List of bills drawn by Jay on Grand, 1781-1782; and list of Franklin's
             orders on Grand on Jay's behalf, 1781-1783. Endorsed by Jay.</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>

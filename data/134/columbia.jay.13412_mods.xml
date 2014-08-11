@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1800 May 6 - June 20</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">18000506</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">18000620</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>One page memorandum in Jay's hand on his treatment by Dr. Torbett in New
             York for a "Pimple between the left cheek bone &amp; Nose" which he had had for several
             years. Treatment combines oral medication and poultices. After two weeks, whole side of

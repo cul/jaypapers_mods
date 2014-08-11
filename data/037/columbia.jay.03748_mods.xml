@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1785 February 1 - February 28</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17850201</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17850228</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Monthly Journal of the Office of Foreign Affairs, listing all of Jay's
             activities and correspondence as Secretary for Foreign Affairs for February
             1785.</mods:abstract>

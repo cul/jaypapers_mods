@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1772 October 17 - 1774 July n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17721017</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1774-07</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Notebook entries in Jay's hand. Calendar of cases in the New York Supreme
             Court, October 17, 1772-July 1774. List of cases and the type of action. Payments are
             listed as made to John Jay on pages 3 and 6. Frederick Jay entered an action for the

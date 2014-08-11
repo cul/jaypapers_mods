@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1790 April 16 - 1792 April 23</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17900416</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17920423</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>John Jay's Diary of Circuit Court Duty, 1790-1792. Diary kept by Jay as he
             presided over the Eastern District of U.S. Circuit Court, 16 April 1790-21 May 1792.
             Diary entries preceded by Jay's notes on deaths in his family, inscribed on the front

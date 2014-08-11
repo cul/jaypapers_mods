@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1665 March 13 - 1739 August 18</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">16650313</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17390818</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Entries of births, marriages, deaths in Jay family, recorded in Family
             Bible. Bible on permanent loan to John Jay Homestead, Katonah, N.Y., owner, Mrs. Lloyd
             K. Garrison (Ellen Jay).</mods:abstract>

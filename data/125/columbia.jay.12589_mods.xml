@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1784 January 14 and 15, June 18, and August 9</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17840114</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17840809</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Copies of 4 letters of 1784 from Thomson to Jay: 14 January, 15 January,
             18 June, and 9 August. (1) 14 January: Acknowledges receipt of letter of 12 September
             enclosing prints. Does not know whether the invention they depict will be or use or

@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1776 n.d. - 1823 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1776</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1823</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Undated note, "Sunday Morng," in which Jay "presents his Compts. To Mr.
             Lee &amp; is obliged by the friendly Mark of Attention wh. Accompanied his
             Note."</mods:abstract>

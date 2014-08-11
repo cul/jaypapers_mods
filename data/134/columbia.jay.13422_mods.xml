@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1788 June 23 - July 28</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17880623</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17880728</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>McKesson's manuscript notes on proceedings in the New York Ratifying
             Convention, Poughkeepsie, June -July 1788. The pages are scanned in their physical
             arrangement in the collection, not rearranged chronologically.</mods:abstract>

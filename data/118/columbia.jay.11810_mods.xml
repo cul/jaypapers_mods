@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1784 n.d. - 1789 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1784</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1789</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract/>
    <mods:note>The entire content of the original has been digitized.</mods:note>
    <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>

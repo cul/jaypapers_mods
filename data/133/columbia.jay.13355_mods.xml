@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1794 April 2-5</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17940402</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17940405</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Minutebook pages for this session of the Circuit Court, Jay presiding.
             Cases heard: United States v. Thomas Fennimore; Cornelius Bogart v. John
             Pintard.</mods:abstract>

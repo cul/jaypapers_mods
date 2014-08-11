@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 April 11-13</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810411</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810413</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>A group of documents relating to Jay's receipt of a loan of 1,780,867
             reales and 26 maravedis in the form of 193 royal bills in favor of the United States.
             Beginning with a "Modele de Recu En Anglois ou en Francois", 11 April, provided to Jay

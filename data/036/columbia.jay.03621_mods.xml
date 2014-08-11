@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1774 n.d. - 1776 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1774</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1776</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Ledger, 1774-1776, with many entries in John Jay's hand, preceded by a
             handwritten index in Jay's hand. Accounts of Jay, his father, and his sister Eve Jay
             Munro. Mrs. Munro's accounts are on three separate sheets; pages at the end of the

@@ -32,7 +32,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1787 March 15 and 1788 November 28</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17870315</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17881128</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Contract by Winans and Garthwart to do the masonry work on the house Jay
             is building on his farm in Bedford, New York, overseen by Samuel Lyons. Details of
             construction and payment. Signed November 15, 1787. With endorsement of November 28,

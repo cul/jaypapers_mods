@@ -53,7 +53,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1794 April 3-4</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17940403</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17940404</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>RG 21, United States District Court Records for New Jersey District. Three
             pages of notes on District Court hearings for these days, Jay presiding,, with Robert
             Morris as sitting District Judge; cases of U.S. v. Thomas Fennemore and Cornelius Bogart

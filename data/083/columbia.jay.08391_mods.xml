@@ -39,7 +39,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1768 September n.d. - 1791 October 31</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1768-09</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17911031</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>An account with Christopher Tappen, concerning various court costs
             incurred by the partnership of Jay &amp; Livingston, 1768-1772. Settled by Jay and
             Livingston on 7 December, 1790 and 31 March, 1791, each paying one half of the

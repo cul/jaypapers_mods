@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1763 December 20 - 1764 May 15</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17631220</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17640515</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>List of summaries of letters written by Peter Jay to James Jay in this
             period. From document 11193, Peter Jay's letterbook, vol. 3</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>

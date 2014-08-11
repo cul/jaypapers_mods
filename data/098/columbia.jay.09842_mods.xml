@@ -46,7 +46,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1798 June 27, 29</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17980627</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17980629</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Copy of document 3161 (Jay's letter of June 27) along with Varick's letter
             of June 29 informing Jay that his communications have been laid before the Common
             Council, with the results of their deliberations enclosed. Also, a fragmentary copy of

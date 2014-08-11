@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1770 June 3 to 1774 March 18</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17700603</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17740318</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>A group of four letters from Peter Jay to his eldest daughter, Eve in
             Albany, 1770-1774: (30 June 1774) . Sending Mr. Munro's horse to James Van Cortlandt;
             her son is well; (15 April 1772) her health and her mother's health; will send fruit

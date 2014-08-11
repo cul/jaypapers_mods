@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1794 June 5 to November 4</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17940605</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17941104</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Enclosures sent to Jay by Randolph, June-November 1794. Includes: 14
             August 1794. Homes to Murray; Correspondence from H.C. Higginson to Randolph;
             Hammond-Randolph Correspondence; 8 September 1794 Gelston to Governor Clinton; Randolph

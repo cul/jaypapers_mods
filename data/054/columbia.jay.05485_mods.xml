@@ -39,7 +39,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1779 February 02 and March 05</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17790202</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17790305</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Encloses a pamphlet to justify the position of those loyal Americans who,
             because of religious sentiments, refuse to take part in the war. Jay has drafted his
             reply, 5 March 1779, on the verso of the address leaf for Benezet's letter. Jay endorses

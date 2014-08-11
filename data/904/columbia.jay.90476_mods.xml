@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1795 March 19 - 1795 April 05</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17950319</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17950405</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Diary of Peter Augustus Jay, London, March 19 - April 5, 1795. Peter
             Augustus Jay accompanied his father, John Jay, to London for the negotiations of the Jay
             Treaty.</mods:abstract>

@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1789 June 1 - June 30</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17890601</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17890630</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Monthly Journal of the Office of Foreign Affairs, listing all of Jay's
             activities and correspondence as Secretary for Foreign Affairs June
             1789.</mods:abstract>

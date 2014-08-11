@@ -39,7 +39,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 April 6-8</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810406</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810408</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>On April 6 Carmichael sends Jay two parcels of bills of exchange for his
             acceptance and notes that owners would like to receive them by Monday afternoon. In
             notes at the foot of the page, April 8 Jay returns acceptance of the two parcels of

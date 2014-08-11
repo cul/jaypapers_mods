@@ -32,7 +32,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 July 11 and 1782 July 6</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810711</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17820706</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Key to the letter/syllable substitution cipher sent to Jay by Thomson on
             11 July 1781 and modified by Robert R. Livingston on 6 July 1782.</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>

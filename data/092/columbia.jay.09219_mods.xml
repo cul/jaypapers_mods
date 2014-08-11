@@ -32,7 +32,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1778 January 15 - 1778 April 2</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17780115</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17780402</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Jay's manuscript essay "A Hint to the Legislature of the State of New
             York," drafted between 15 January and 2 April 1778. The essay lays out fair and
             equitable legal guidelines for the impressment of civilian goods for the Army. Jay's

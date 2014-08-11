@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1790 April 4 - May 20</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17900404</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17900520</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Jay's Autograph draft of the charge which he delivered throughout the
             Eastern Circuit in the spring of 1790: District of Connecticut, New Haven, 22 April
             1790; District of Massachusetts, Boston, 3 May 1790; District of New Hampshire,

@@ -53,7 +53,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1768 July n.d. - 1775 April 25</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1768-07</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17750425</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Accounts of George Clark, clerk of the New York Supreme Court, with Jones,
             Jay, Livingston, Brown, and Benson</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>

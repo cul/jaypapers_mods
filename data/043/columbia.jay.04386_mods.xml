@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1795 n.d. - 1801 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1795</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1801</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Fragment of letter to Jay during his governorship, signed James
             ???</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>

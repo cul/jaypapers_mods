@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 September 8 - 16</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810908</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810916</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Autograph draft of a letter to Floridablanca prepared sometime in the
             second week of September 1781 and never sent. Jay recites the reasons he was sent to
             Spain. Reminds Floridablanca that whatever the issue of the American Revolution, the
