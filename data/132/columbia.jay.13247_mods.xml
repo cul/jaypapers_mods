@@ -43,7 +43,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">MdAnMSA</mods:physicalLocation>
       <mods:physicalLocation type="text">Maryland State Archives</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.13247</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.13247</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

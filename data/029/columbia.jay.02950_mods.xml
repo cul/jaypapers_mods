@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1830 n.d. - 1840 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1830</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1840</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Map of Westchester County, featuring Croton River</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>
    <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
@@ -33,7 +37,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">NHi</mods:physicalLocation>
       <mods:physicalLocation type="text">New-York Historical Society</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.2950</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.02950</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

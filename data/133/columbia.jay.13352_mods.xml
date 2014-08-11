@@ -29,7 +29,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">ICU</mods:physicalLocation>
       <mods:physicalLocation type="text">University of Chicago</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.13352</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.13352</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

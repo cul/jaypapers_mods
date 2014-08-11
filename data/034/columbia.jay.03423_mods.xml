@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 September 8 - 16</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810908</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810916</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Letterbook copy of document 8237. Prepared sometime in the second week of
             September 1781 and never sent. Jay recites the reasons he was sent to Spain. Reminds
             Floridablanca that whatever the issue of the American Revolution, the good will of the
@@ -54,7 +58,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">CSmH</mods:physicalLocation>
       <mods:physicalLocation type="text">Huntington Library, Art Collections, and Botanical Gardens</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.3423</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.03423</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

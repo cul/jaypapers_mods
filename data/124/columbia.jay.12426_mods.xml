@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1784 March 2 - 1793 April 14</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17840302</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17930414</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Copies of a group of documents relating to Henry Remsen: resolution of the
             Continental Congress, 2 March 1784; Charles Thomson to Jay, n.d. August 1784; Thomas
             Jefferson's certificate for Remsen, 14 April 1792.</mods:abstract>
@@ -42,7 +46,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">DLC</mods:physicalLocation>
       <mods:physicalLocation type="text">Library of Congress</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12426</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.12426</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

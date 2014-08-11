@@ -53,7 +53,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1779 December 12 - 1781 March 14</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17791212</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810314</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Volume of manuscript copies of nine letters from Mrs. Jay to members of
             her family, 12 December 1779- 14 March 1781, prepared by her older sister, Catharine
             Livingston. The unnumbered pages preceding the letters' texts contain a leaf to which
@@ -153,7 +157,7 @@
       <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
       <mods:physicalLocation type="text">Columbia University, Butler Library, Rare Book &amp; Manuscript
             Division</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.7352</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.07352</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

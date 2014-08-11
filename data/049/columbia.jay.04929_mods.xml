@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1782 n.d. - 1783 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1782</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1783</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>"Project of the definitive Treaty of Peace as drawn up by the American
             Ministers?" Two-paragraph preamble; one page of notes on the American peace
             commissioners' commission of 15 June 1781.</mods:abstract>
@@ -35,7 +39,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">MiU-C</mods:physicalLocation>
       <mods:physicalLocation type="text">University of Michigan, Clements Library</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4929</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.04929</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

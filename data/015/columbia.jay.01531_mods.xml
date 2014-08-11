@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1777 May 22 - 1779 August 8</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17770522</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17790808</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Pages from the state's "Audited Accounts" for Jay's accounts as Chief
             Justice, 22 May 1777- 8 August 1779 (p. 178) and delegate to Continental Congress, 7
             December 1778-28 September 1779 (p. 180).</mods:abstract>
@@ -42,7 +46,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">N</mods:physicalLocation>
       <mods:physicalLocation type="text">New York State Library, Manuscripts &amp; Special Collections</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.1531</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.01531</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

@@ -52,7 +52,7 @@
       <mods:physicalLocation authority="marcorg" type="code">NRU</mods:physicalLocation>
       <mods:physicalLocation type="text">University of Rochester Library, Department of Rare Books and Special
             Collections</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.2879</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.02879</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

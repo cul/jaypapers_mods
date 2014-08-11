@@ -67,7 +67,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>ante 1765 and 1780 January 1 - 1781 March 14</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1765</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810314</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>John Jay's School Copybook (ante 1765) and Sarah Jay's Letterbook, 1
             January 1780-14 March 1781. Paperbound copybook opening with eight leaves inscribed by
             John Jay, probably ante 1765, containing conjugations of French verbs and declensions of
@@ -140,7 +144,7 @@
       <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
       <mods:physicalLocation type="text">Columbia University, Butler Library, Rare Book &amp; Manuscript
             Division</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.7349</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.07349</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

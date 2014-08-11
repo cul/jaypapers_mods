@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 July 21, August 20, September 5, 19 and 27</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810721</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810927</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Copies of Floridablanca's notes of July 21, August 20, September 5, 19 and
             27. Copied out for enclosure in Jay's letter to the President of Congress, 3 October
             1781.</mods:abstract>
@@ -43,7 +47,7 @@
       <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
       <mods:physicalLocation type="text">Columbia University, Butler Library, Rare Book &amp; Manuscript
             Division</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.8217</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.08217</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

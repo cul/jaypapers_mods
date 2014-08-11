@@ -60,7 +60,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1792 April 5, 10 and 16</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17920405</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17920416</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Washington's message to Congress (also document 10073) transmits a letter
             from Jay, William Cushing, and James Duane, 10 April 1792, forwarding proceedings of the
             Circuit Court for District of New York in respect to "An Act to provide for the
@@ -79,7 +83,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">DNA</mods:physicalLocation>
       <mods:physicalLocation type="text">National Archives and Records Administration</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.11781</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.11781</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

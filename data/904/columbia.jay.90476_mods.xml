@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1795 March 19 - 1795 April 05</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17950319</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17950405</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Diary of Peter Augustus Jay, London, March 19 - April 5, 1795. Peter
             Augustus Jay accompanied his father, John Jay, to London for the negotiations of the Jay
             Treaty.</mods:abstract>
@@ -36,7 +40,7 @@
       <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
       <mods:physicalLocation type="text">Columbia University, Butler Library, Rare Book &amp; Manuscript
             Division</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.90476</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.90476</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

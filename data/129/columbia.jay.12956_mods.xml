@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1774 September 5 - 1780 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17740905</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1780</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>John JayÆs autobiographical notes on his life and offices held,
             1774-1779.</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>
@@ -35,7 +39,7 @@
       <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
       <mods:physicalLocation type="text">Columbia University, Butler Library, Rare Book &amp; Manuscript
             Division</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12956</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.12956</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

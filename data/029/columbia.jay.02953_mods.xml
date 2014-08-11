@@ -11,7 +11,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1728 n.d. - 1747 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1728</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1747</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Accounts of legal fees, beginning in 1728 for cases before the New York
             Supreme Court.</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>
@@ -27,7 +31,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">NHi</mods:physicalLocation>
       <mods:physicalLocation type="text">New-York Historical Society</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.2953</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.02953</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

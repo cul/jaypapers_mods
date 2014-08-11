@@ -75,7 +75,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">FrPMAE</mods:physicalLocation>
       <mods:physicalLocation type="text">Ministère des Affaires Etrangères</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.5079</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.05079</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

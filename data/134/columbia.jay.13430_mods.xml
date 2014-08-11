@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1788 July 14 - 26</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17880714</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17880726</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Livingston's manuscript notes of speeches and debates at the Poughkeepsie
             Convention, July 14-26, 1788.</mods:abstract>
    <mods:note>The entire content of the original has been digitized.</mods:note>
@@ -41,7 +45,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">N</mods:physicalLocation>
       <mods:physicalLocation type="text">New York State Library, Manuscripts &amp; Special Collections</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.13430</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.13430</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

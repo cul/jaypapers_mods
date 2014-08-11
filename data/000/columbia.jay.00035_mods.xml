@@ -43,7 +43,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">UkWC-A</mods:physicalLocation>
       <mods:physicalLocation type="text">Royal Archives, Windsor Castle</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.35</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.00035</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

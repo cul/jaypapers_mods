@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1795 August 11 - 1800 November 28</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17950811</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">18001128</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Alphabetical index of the Governor's Letterbook, vol. 2, , arranged by
             subject. Includes indication of the contents of each letter, and page
             numbers.</mods:abstract>
@@ -35,7 +39,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">N</mods:physicalLocation>
       <mods:physicalLocation type="text">New York State Library, Manuscripts &amp; Special Collections</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12435</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.12435</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

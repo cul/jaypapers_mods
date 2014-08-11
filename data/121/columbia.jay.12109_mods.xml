@@ -39,7 +39,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1786 February 28 and March 1</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17860228</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17860301</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Copy of Gardoqui's letter to Jay, 28 February (see document 1886) in
             Spanish; with a copy of Jay's reply, 1 March 1786 (see document 1887) in English and
             with a Spanish translation.</mods:abstract>
@@ -56,7 +60,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">SpMaAHN</mods:physicalLocation>
       <mods:physicalLocation type="text">Archivo Historico Nacional</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12109</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.12109</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

@@ -18,7 +18,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1770 n.d. - 1775 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1770</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1775</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Question on the allocation of fees in two cases of ejectment brought
             before the Supreme Court of Judicature. The same witnesses and surveys were required in
             each case. The Chief Justice has asked Jay and six other "Practisers" to give their
@@ -41,7 +45,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">NHi</mods:physicalLocation>
       <mods:physicalLocation type="text">New-York Historical Society</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12759</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.12759</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

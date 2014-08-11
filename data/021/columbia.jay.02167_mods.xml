@@ -44,7 +44,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">DNA</mods:physicalLocation>
       <mods:physicalLocation type="text">National Archives and Records Administration</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.2167</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.02167</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1781 September 8 - 16</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17810908</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17810916</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Letterbook copy of document 8237. Enclosure in Jay to Montmorin, 16
             September 1781 where it is described as "Recital of a draft" of a letter not sent.
             Prepared sometime in the second week of September 1781 and never sent. Jay recites the
@@ -56,7 +60,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">DNA</mods:physicalLocation>
       <mods:physicalLocation type="text">National Archives and Records Administration</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.4174</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.04174</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

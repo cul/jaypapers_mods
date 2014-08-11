@@ -25,7 +25,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1674 October 31 - November 4, copied on 1769 July 24</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">16741031</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">16741104</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>"A Record of Matters past in [the New York] Council since the Governors
             receiving the Province of New York from the Dutch" relating to the New York-New Jersey
             boundary. Copy made and attested by Goldsborough Banyer, July 24,
@@ -43,7 +47,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">NHi</mods:physicalLocation>
       <mods:physicalLocation type="text">New-York Historical Society</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.12244</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.12244</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

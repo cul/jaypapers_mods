@@ -11,7 +11,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1770 n.d. - 1773 n.d.</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1770</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">1773</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>New York Supreme Court Register. Most of the entries in Jay's hand. List
             of cases tried in the New York Supreme Court between 1770-1773. The court from which the
             case was appealed is included. Some receipts are attached to the
@@ -29,7 +33,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">XX-XxUND</mods:physicalLocation>
       <mods:physicalLocation type="text">Unknown repository</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.3620</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.03620</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>

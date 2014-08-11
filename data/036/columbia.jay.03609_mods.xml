@@ -39,7 +39,11 @@
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
    </mods:physicalDescription>
-   <mods:originInfo eventType="creation"/>
+   <mods:originInfo eventType="creation">
+      <mods:dateCreated>1775 January 19-December 18</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">17750119</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">17751218</mods:dateCreated>
+   </mods:originInfo>
    <mods:abstract>Papers relating to the action of assault and batter, Theophilus Anthony v.
             John Franklin. Jay is the attorney for John Franklin who is accused by T. Anthony of
             assaulting and beating him on the New York dock. The assault occurred after a dispute
@@ -61,7 +65,7 @@
    <mods:location>
       <mods:physicalLocation authority="marcorg" type="code">NHi</mods:physicalLocation>
       <mods:physicalLocation type="text">New-York Historical Society</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/image?key=columbia.jay.3609</mods:url>
+      <mods:url usage="primary display" access="object in context">http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.03609</mods:url>
    </mods:location>
    <mods:relatedItem type="host" displayLabel="Project">
       <mods:titleInfo>
