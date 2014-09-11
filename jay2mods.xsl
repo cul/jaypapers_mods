@@ -5,7 +5,8 @@
     <xd:doc scope="stylesheet" version="3.5">
         <xd:desc>
             <xd:p><xd:b>Created on:</xd:b> Jul 1, 2014</xd:p>
-            <xd:p><xd:b>Author:</xd:b> terry</xd:p>
+            <xd:p><xd:b>Created on:</xd:b> Sep 11, 2014</xd:p>
+            <xd:p><xd:b>Author:</xd:b> Terry Catapano</xd:p>
             <xd:p/>
         </xd:desc>
     </xd:doc>
@@ -13,7 +14,16 @@
         <xsl:apply-templates select="//row"/>
     </xsl:template>
     <xsl:template match="row">
-        <xsl:result-document encoding="utf-8" href="data/{child::control_name}_mods.xml"
+        <xsl:message select="substring(tokenize(child::control_name, '\.')[3], 1, 3)"/>
+        <xsl:message>
+            <xsl:value-of select="child::num_pages"/>
+            <xsl:text> page</xsl:text>
+            <xsl:if test="number(child::num_pages) != 1">
+                <xsl:text>s</xsl:text>
+            </xsl:if>
+        </xsl:message>
+      <xsl:result-document encoding="utf-8"
+            href="data/{substring(tokenize(child::control_name, '\.')[3], 1, 3)}/{child::control_name}_mods.xml"
             indent="yes">
             <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -32,34 +42,44 @@
                 <mods:physicalDescription>
                     <mods:extent>
                         <xsl:value-of select="child::num_pages"/>
+                        <xsl:text> page</xsl:text>
+                        <xsl:if test="number(child::num_pages) != 1">
+                            <xsl:text>s</xsl:text>
+                        </xsl:if>
                     </mods:extent>
                     <mods:form authority="gmgpc">correspondence</mods:form>
                     <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
                 </mods:physicalDescription>
                 <mods:originInfo eventType="creation">
-                   <xsl:apply-templates
+                    <xsl:apply-templates
                         select="child::date1[ancestor::row/date2[not(normalize-space(.))]]"
                         mode="single"/>
-                    <xsl:apply-templates select="child::date1[ancestor::row/date2[normalize-space(.)]]"
-                        mode="range"/>
+                    <xsl:apply-templates
+                        select="child::date1[ancestor::row/date2[normalize-space(.)]]" mode="range"
+                    />
                 </mods:originInfo>
                 <mods:abstract>
                     <xsl:value-of select="child::abstract_display"/>
                 </mods:abstract>
                 <mods:note>The entire content of the original has been digitized.</mods:note>
                 <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
-                <mods:subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140139">
+                <mods:subject authority="lcsh"
+                    valueURI="http://id.loc.gov/authorities/subjects/sh85140139">
                     <mods:topic>United States--History--Revolution, 1775-1783</mods:topic>
                 </mods:subject>
-                <mods:subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/n79088877">
+                <mods:subject authority="lcsh"
+                    valueURI="http://id.loc.gov/authorities/names/n79088877">
                     <mods:name authority="naf">
                         <mods:namePart>Jay, John, 1745-1829</mods:namePart>
                     </mods:name>
                 </mods:subject>
                 <mods:location>
-                    <mods:physicalLocation authority="marcorg" type="code"
-                        ><xsl:value-of select="repository_code"/></mods:physicalLocation>
-                    <mods:physicalLocation type="text"><xsl:value-of select="repository"/></mods:physicalLocation>
+                    <mods:physicalLocation authority="marcorg" type="code">
+                        <xsl:value-of select="repository_code"/>
+                    </mods:physicalLocation>
+                    <mods:physicalLocation type="text">
+                        <xsl:value-of select="repository"/>
+                    </mods:physicalLocation>
                     <mods:url usage="primary display" access="object in context">
                         <xsl:text>http://wwwapp.cc.columbia.edu/ldpd/jay/item?mode=item&amp;key=columbia.jay.</xsl:text>
                         <xsl:value-of select="format-number(child::jay_id, '00000')"/>
@@ -94,11 +114,11 @@
                         <xsl:text>_mods.xml</xsl:text>
                     </mods:recordIdentifier>
                     <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
-                    <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general
-                        conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+                    <mods:recordOrigin>Derived from John Jay Papers metadata and edited in general conformance to MODS Guideline (Version 3).</mods:recordOrigin>
                 </mods:recordInfo>
             </mods:mods>
         </xsl:result-document>
+
     </xsl:template>
     <xsl:template match="*[starts-with(local-name(), 'author')]">
         <mods:name>
